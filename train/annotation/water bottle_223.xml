@@ -1,0 +1,26 @@
+<annotation>
+	<folder>water bottle</folder>
+	<filename>water bottle_223.jpg</filename>
+	<path>D:\图标\water bottle\water bottle_223.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>678</width>
+		<height>905</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>water_bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>12</ymin>
+			<xmax>575</xmax>
+			<ymax>905</ymax>
+		</bndbox>
+	</object>
+</annotation>

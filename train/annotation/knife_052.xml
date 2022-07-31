@@ -1,0 +1,26 @@
+<annotation>
+	<folder>knife</folder>
+	<filename>knife_052.jpg</filename>
+	<path>C:\Users\Lenovo\Documents\新建文件夹\knife\knife_052.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1120</width>
+		<height>747</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>404</xmin>
+			<ymin>198</ymin>
+			<xmax>836</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

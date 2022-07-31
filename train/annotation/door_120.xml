@@ -1,0 +1,26 @@
+<annotation>
+	<folder>door</folder>
+	<filename>door_120.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\door\door\door_120.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>229</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>39</ymin>
+			<xmax>182</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

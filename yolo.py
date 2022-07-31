@@ -16,9 +16,9 @@ from utils import non_max_suppression, bbox_iou, DecodeBox, letterbox_image, yol
 
 class YOLO(object):
     _defaults = {
-        "model_path": 'model_data/yolov4_maskdetect_weights1.pth',
+        "model_path": 'model_data/yolo_indoor.pth',
         "anchors_path": 'model_data/yolo_anchors.txt',
-        "classes_path": 'model_data/mask_classes.txt',
+        "classes_path": 'model_data/mask_classes_new.txt',
         "model_image_size" : (608, 608, 3),
         "confidence": 0.55,
         "cuda": True
@@ -72,7 +72,7 @@ class YOLO(object):
         print('Loading pretrained weights.')
         
         model_dict = self.net.state_dict()
-        pretrained_dict = torch.load(self.model_path)
+        pretrained_dict = torch.load(self.model_path,map_location="cpu")
         #print(pretrained_dict)
         pretrained_dict = {k: v for k, v in pretrained_dict.items() if np.shape(model_dict[k]) ==  np.shape(v)}
         model_dict.update(pretrained_dict)
@@ -150,9 +150,8 @@ class YOLO(object):
 
         thickness = (np.shape(image)[0] + np.shape(image)[1]) // self.model_image_size[0]
         #print(thickness)
-        
-        num_mask=0
-        num_nomask=0
+        image = image.convert('RGB')
+
         for i, c in enumerate(top_label):
             predicted_class = self.class_names[c]
             score = top_conf[i]
@@ -170,11 +169,7 @@ class YOLO(object):
 
             # 画框框
             label = '{}: {:.2f}'.format(predicted_class, score)
-            # if(predicted_class=="mask"):
-            #    num_mask=num_mask+1
-            # if(predicted_class=="nomask"):
-            #    num_nomask=num_nomask+1
-            image = image.convert('RGB')
+
             draw = ImageDraw.Draw(image)
             #print(draw)
             label_size = draw.textsize(label, font)
@@ -192,11 +187,11 @@ class YOLO(object):
                 draw.rectangle(
                     [left + i, top + i, right - i, bottom - i],
                     outline=self.colors[self.class_names.index(predicted_class)])
-            # draw.rectangle(
-            #     [tuple(text_origin), tuple(text_origin + label_size)],
-            #     fill=self.colors[self.class_names.index(predicted_class)])
-            # draw.text(text_origin, str(label,'UTF-8'), fill=(0, 0, 0), font=font)
-            #print(label)
+            draw.rectangle(
+                [tuple(text_origin), tuple(text_origin + label_size)],
+                fill=self.colors[self.class_names.index(predicted_class)])
+            draw.text(text_origin, str(label,'UTF-8'), fill=(0, 0, 0), font=font)
+            print(label)
          
         #else:
               

@@ -1,0 +1,132 @@
+test/image/door_000.jpg 29,46,515,1282,0 
+test/image/door_001.jpg 14,13,168,394,0 
+test/image/door_002.jpg 14,14,200,351,0 
+test/image/door_003.jpg 241,70,417,499,0 
+test/image/door_004.jpg 15,9,198,344,0 
+test/image/door_005.jpg 215,75,493,750,0 
+test/image/door_006.jpg 253,15,374,322,0 
+test/image/door_007.jpg 1,4,110,219,0 
+test/image/door_008.jpg 15,20,210,500,0 
+test/image/door_009.jpg 191,65,371,510,0 
+test/image/door_010.jpg 83,64,326,658,0 
+test/image/door_011.jpg 77,17,166,243,0 
+test/image/door_012.jpg 62,57,241,522,0 
+test/image/door_013.jpg 166,36,259,274,0 
+test/image/door_014.jpg 69,35,183,331,0 
+test/image/door_015.jpg 592,62,773,497,0 
+test/image/door_016.jpg 64,7,157,214,0 
+test/image/door_017.jpg 445,207,688,1010,0 
+test/image/door_018.jpg 113,33,298,558,0 
+test/image/door_019.jpg 138,122,387,934,0 
+test/image/door_020.jpg 355,126,645,897,0 
+test/image/door_021.jpg 214,36,398,527,0 
+test/image/door_022.jpg 21,20,188,344,0 
+test/image/door_023.jpg 36,15,110,233,0 
+test/image/door_024.jpg 244,97,420,535,0 
+test/image/door_025.jpg 116,61,206,305,0 
+test/image/door_026.jpg 84,22,191,271,0 
+test/image/door_027.jpg 83,27,183,267,0 
+test/image/door_028.jpg 381,82,471,306,0 
+test/image/knife_000.jpg 474,384,996,603,1 472,35,1147,376,1 
+test/image/knife_001.jpg 37,118,640,417,1 
+test/image/knife_002.jpg 161,100,1061,666,1 
+test/image/knife_003.jpg 6,18,290,306,1 
+test/image/knife_004.jpg 160,145,607,814,1 
+test/image/knife_005.jpg 82,52,541,485,1 
+test/image/knife_006.jpg 5,66,446,269,1 
+test/image/knife_007.jpg 225,91,530,584,1 
+test/image/knife_008.jpg 167,92,582,595,1 
+test/image/knife_009.jpg 15,312,1276,1762,1 
+test/image/knife_010.jpg 8,143,873,430,1 
+test/image/knife_011.jpg 128,100,1194,714,1 
+test/image/knife_012.jpg 15,254,1071,1433,1 
+test/image/knife_013.jpg 376,47,1001,872,1 41,37,370,608,1 
+test/image/knife_014.jpg 31,8,606,620,1 
+test/image/knife_015.jpg 130,39,531,582,1 
+test/image/knife_016.jpg 8,23,792,760,1 
+test/image/knife_017.jpg 5,39,283,243,1 
+test/image/knife_018.jpg 13,135,880,434,1 
+test/image/knife_019.jpg 179,101,1039,402,1 
+test/image/knife_020.jpg 55,6,916,797,1 
+test/image/knife_021.jpg 27,150,470,356,1 25,363,271,419,1 
+test/image/knife_022.jpg 223,13,741,619,1 
+test/image/phone_000.jpg 80,13,538,958,2 
+test/image/phone_001.jpg 300,137,828,1187,2 
+test/image/phone_002.jpg 62,51,412,319,2 
+test/image/phone_003.jpg 348,601,1468,1517,2 882,233,2136,1066,2 
+test/image/phone_004.jpg 196,15,402,440,2 50,5,195,440,2 
+test/image/phone_005.jpg 194,9,406,438,2 44,7,202,441,2 
+test/image/phone_006.jpg 72,86,376,340,2 
+test/image/phone_007.jpg 259,40,460,450,2 
+test/image/phone_008.jpg 199,45,440,342,2 
+test/image/phone_009.jpg 95,6,203,213,2 27,4,96,212,2 
+test/image/phone_010.jpg 195,178,385,364,2 1,70,129,160,2 156,16,281,144,2 
+test/image/phone_011.jpg 236,25,441,437,2 
+test/image/phone_012.jpg 32,36,447,226,2 
+test/image/phone_013.jpg 189,52,399,295,2 
+test/image/phone_014.jpg 126,38,380,298,2 
+test/image/phone_015.jpg 201,26,404,431,2 
+test/image/phone_016.jpg 40,60,506,474,2 
+test/image/phone_017.jpg 30,21,193,358,2 194,25,295,356,2 
+test/image/phone_018.jpg 531,58,745,523,2 745,60,873,525,2 
+test/image/phone_019.jpg 36,34,458,840,2 
+test/image/phone_020.jpg 27,154,133,356,2 161,131,272,354,2 310,133,414,354,2 451,111,570,353,2 
+test/image/phone_021.jpg 193,54,490,414,2 
+test/image/phone_022.jpg 134,83,384,309,2 
+test/image/phone_023.jpg 97,45,374,312,2 
+test/image/phone_024.jpg 73,92,347,622,2 369,87,629,627,2 
+test/image/phone_025.jpg 259,155,478,377,2 
+test/image/scissor_000.jpg 38,52,651,683,3 
+test/image/scissor_001.jpg 192,66,642,719,3 
+test/image/scissor_002.jpg 111,184,655,508,3 
+test/image/scissor_003.jpg 97,271,766,609,3 
+test/image/scissor_004.jpg 63,117,738,754,3 
+test/image/scissor_005.jpg 111,32,986,650,3 
+test/image/scissor_006.jpg 69,31,670,666,3 
+test/image/scissor_007.jpg 310,77,750,432,3 
+test/image/scissor_008.jpg 189,47,530,472,3 
+test/image/scissor_009.jpg 19,60,759,337,3 
+test/image/scissor_010.jpg 174,6,596,533,3 
+test/image/scissor_011.jpg 236,128,687,739,3 
+test/image/scissor_012.jpg 49,19,265,456,3 280,15,447,459,3 
+test/image/scissor_013.jpg 54,39,502,427,3 
+test/image/scissor_014.jpg 54,172,666,570,3 
+test/image/scissor_015.jpg 44,8,257,287,3 
+test/image/scissor_016.jpg 28,23,772,411,3 
+test/image/scissor_017.jpg 44,127,639,567,3 
+test/image/scissor_018.jpg 12,280,721,854,3 
+test/image/scissor_019.jpg 148,6,1027,588,3 
+test/image/scissor_020.jpg 34,56,288,224,3 
+test/image/scissor_021.jpg 110,192,1103,1064,3 
+test/image/scissor_022.jpg 115,6,272,338,3 
+test/image/scissor_023.jpg 303,164,1749,1209,3 
+test/image/scissor_024.jpg 468,131,1707,1266,3 
+test/image/scissor_025.jpg 217,6,400,284,3 116,131,219,368,3 
+test/image/scissor_026.jpg 138,1,707,737,3 
+test/image/scissor_027.jpg 9,10,95,293,3 149,10,247,291,3 
+test/image/scissor_028.jpg 246,4,660,795,3 
+test/image/scissor_029.jpg 28,207,630,564,3 
+test/image/water_bottle000.jpg 152,25,606,725,4 
+test/image/water_bottle001.jpg 215,5,662,800,4 
+test/image/water_bottle002.jpg 24,13,361,932,4 352,32,716,1001,4 
+test/image/water_bottle003.jpg 185,55,575,755,4 
+test/image/water_bottle004.jpg 165,25,655,775,4 
+test/image/water_bottle005.jpg 21,36,103,198,4 116,41,203,208,4 
+test/image/water_bottle006.jpg 197,34,605,750,4 
+test/image/water_bottle007.jpg 244,327,635,1018,4 
+test/image/water_bottle008.jpg 5,20,55,220,4 65,27,123,217,4 126,20,187,220,4 194,27,244,220,4 237,24,294,213,4 
+test/image/water_bottle009.jpg 260,41,570,790,4 
+test/image/water_bottle010.jpg 652,184,1558,2423,4 1586,217,2488,2437,4 
+test/image/water_bottle011.jpg 187,43,622,756,4 
+test/image/water_bottle012.jpg 44,28,379,716,4 
+test/image/water_bottle013.jpg 115,134,564,1180,4 619,145,1075,1168,4 
+test/image/water_bottle014.jpg 196,257,904,1791,4 902,305,1551,1783,4 
+test/image/water_bottle015.jpg 94,44,619,931,4 
+test/image/water_bottle016.jpg 81,38,444,787,4 422,51,782,798,4 
+test/image/water_bottle017.jpg 221,36,487,730,4 
+test/image/water_bottle018.jpg 447,91,721,752,4 
+test/image/water_bottle019.jpg 39,5,206,539,4 207,9,445,584,4 392,15,598,549,4 
+test/image/water_bottle020.jpg 65,33,445,919,4 
+test/image/water_bottle021.jpg 240,80,478,553,4 480,73,730,550,4 
+test/image/water_bottle022.jpg 88,17,253,344,4 
+test/image/water_bottle023.jpg 33,21,158,291,4 164,21,286,294,4 

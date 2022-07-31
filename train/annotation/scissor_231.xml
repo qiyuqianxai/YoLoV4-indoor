@@ -1,0 +1,26 @@
+<annotation>
+	<folder>scissor</folder>
+	<filename>scissor_231.jpg</filename>
+	<path>C:\Users\HUAWEI\Desktop\scissor\scissor\scissor_231.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>715</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scissor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>165</ymin>
+			<xmax>644</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+</annotation>

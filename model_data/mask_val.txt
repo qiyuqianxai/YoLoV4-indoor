@@ -1,0 +1,1150 @@
+datasets/val/JPEGImages/1.jpg 578,168,2078,1652,0 578,1704,2114,3320,0 
+datasets/val/JPEGImages/10.jpg 566,304,2018,1768,0 554,1876,2094,3400,0 
+datasets/val/JPEGImages/100.jpg 1080,105,2313,1282,0 1163,1317,2357,2567,0 
+datasets/val/JPEGImages/11.jpg 182,916,1402,2204,0 1482,992,2670,2240,0 
+datasets/val/JPEGImages/12.jpg 110,900,2638,2200,0 
+datasets/val/JPEGImages/13.jpg 778,240,1790,1204,0 698,1240,1714,2332,0 574,2376,1786,3608,0 
+datasets/val/JPEGImages/14.jpg 442,468,1874,1856,0 458,1860,1994,3332,0 
+datasets/val/JPEGImages/15.jpg 722,152,1814,1228,0 682,1244,1882,2388,0 666,2420,1938,3640,0 
+datasets/val/JPEGImages/16.jpg 114,1488,2530,2676,0 
+datasets/val/JPEGImages/17.jpg 30,1156,2502,2424,0 
+datasets/val/JPEGImages/18.jpg 458,592,1966,1984,0 502,2044,2066,3624,0 
+datasets/val/JPEGImages/19.jpg 678,724,1974,1992,0 678,2048,2090,3476,0 
+datasets/val/JPEGImages/2.jpg 678,504,2042,1920,0 634,1944,2034,3364,0 
+datasets/val/JPEGImages/20.jpg 902,164,1958,1108,0 834,1128,1986,2188,0 802,2240,2022,3500,0 
+datasets/val/JPEGImages/21.jpg 682,96,1866,2284,0 714,2312,2002,3572,0 
+datasets/val/JPEGImages/22.jpg 746,424,1982,1540,0 666,1556,2050,3328,0 
+datasets/val/JPEGImages/23.jpg 702,472,2158,1848,0 738,1892,2182,3364,0 
+datasets/val/JPEGImages/24.jpg 714,544,2190,3560,0 
+datasets/val/JPEGImages/25.jpg 782,104,2346,3176,0 
+datasets/val/JPEGImages/26.jpg 810,36,1898,2112,0 750,2108,1966,3264,0 
+datasets/val/JPEGImages/27.jpg 798,64,1870,1104,0 746,1148,1962,2480,0 734,2548,2048,3648,0 
+datasets/val/JPEGImages/28.jpg 754,116,1842,1104,0 726,1156,1854,1828,0 682,1840,2002,3564,0 
+datasets/val/JPEGImages/29.jpg 738,156,1814,1196,0 682,1220,1866,2344,0 650,2356,1918,3648,0 
+datasets/val/JPEGImages/3.jpg 838,180,1838,1180,0 802,1196,1890,2308,0 818,2328,1982,3644,0 
+datasets/val/JPEGImages/30.jpg 482,316,2086,1836,0 502,1916,2126,3532,0 
+datasets/val/JPEGImages/31.jpg 566,300,2078,1804,0 558,1848,2086,3444,0 
+datasets/val/JPEGImages/32.jpg 730,148,1770,1152,0 682,1172,1750,2260,0 618,2308,1834,3544,0 
+datasets/val/JPEGImages/33.jpg 106,1060,2670,2364,0 
+datasets/val/JPEGImages/34.jpg 490,100,2206,3496,0 
+datasets/val/JPEGImages/35.jpg 722,112,1846,1156,0 726,1180,1874,2308,0 658,2356,1878,3608,0 
+datasets/val/JPEGImages/36.jpg 142,1020,2698,2356,0 
+datasets/val/JPEGImages/37.jpg 494,236,2162,3492,0 
+datasets/val/JPEGImages/38.jpg 654,280,1794,3488,0 
+datasets/val/JPEGImages/39.jpg 482,152,2074,1704,0 506,1732,2170,3524,0 
+datasets/val/JPEGImages/4.jpg 70,1184,2630,2356,0 
+datasets/val/JPEGImages/40.jpg 718,144,1834,1104,0 730,1112,1930,2196,0 710,2268,2034,3604,0 
+datasets/val/JPEGImages/41.jpg 1266,176,2083,938,0 1266,952,2107,1788,0 1257,1791,2130,2697,0 
+datasets/val/JPEGImages/42.jpg 1139,202,2351,1388,0 1116,1414,2392,2655,0 
+datasets/val/JPEGImages/43.jpg 510,292,2078,1728,0 514,1772,2178,3440,0 
+datasets/val/JPEGImages/44.jpg 762,52,1878,2248,0 702,2284,1918,3544,0 
+datasets/val/JPEGImages/45.jpg 1039,158,2289,2620,0 
+datasets/val/JPEGImages/46.jpg 1289,129,2113,2579,0 
+datasets/val/JPEGImages/47.jpg 686,588,2094,2016,0 630,2064,2110,3500,0 
+datasets/val/JPEGImages/48.jpg 874,96,1914,1076,0 782,1136,1922,2232,0 694,2276,1926,3468,0 
+datasets/val/JPEGImages/49.jpg 1104,52,2336,2567,0 
+datasets/val/JPEGImages/5.jpg 614,48,1702,1068,0 518,1112,1694,2260,0 458,2304,1686,3576,0 
+datasets/val/JPEGImages/50.jpg 590,412,2018,1836,0 510,1856,1998,3372,0 
+datasets/val/JPEGImages/51.jpg 22,1068,2586,2320,0 
+datasets/val/JPEGImages/52.jpg 826,60,1850,1068,0 842,1232,1926,2320,0 702,2340,1866,3492,0 
+datasets/val/JPEGImages/53.jpg 590,168,2138,1688,0 594,1712,2114,3220,0 
+datasets/val/JPEGImages/54.jpg 154,972,2574,2200,0 
+datasets/val/JPEGImages/55.jpg 658,996,1850,3348,0 834,88,1934,948,0 
+datasets/val/JPEGImages/56.jpg 754,232,1826,1268,0 642,1316,1842,2436,0 586,2504,1814,3608,0 
+datasets/val/JPEGImages/57.jpg 490,300,1962,1716,0 522,1792,2074,3392,0 
+datasets/val/JPEGImages/58.jpg 610,188,2166,1692,0 550,1776,2158,3412,0 
+datasets/val/JPEGImages/59.jpg 862,144,1910,1136,0 766,1156,1894,2264,0 646,2292,1942,3568,0 
+datasets/val/JPEGImages/6.jpg 666,368,2126,1680,0 694,1752,2230,3240,0 
+datasets/val/JPEGImages/60.jpg 562,544,2178,3552,0 
+datasets/val/JPEGImages/61.jpg 882,36,2026,992,0 774,1048,2026,2220,0 750,2264,2006,3588,0 
+datasets/val/JPEGImages/62.jpg 98,1144,2446,2296,0 
+datasets/val/JPEGImages/63.jpg 634,400,2098,1740,0 630,1836,2170,3376,0 
+datasets/val/JPEGImages/64.jpg 834,80,1906,1124,0 738,1168,1850,2304,0 662,2320,1822,3500,0 
+datasets/val/JPEGImages/65.jpg 438,156,2254,3596,0 
+datasets/val/JPEGImages/66.jpg 734,52,1866,1060,0 734,1068,1906,2240,0 654,2264,1970,3560,0 
+datasets/val/JPEGImages/67.jpg 901,99,2266,2617,0 
+datasets/val/JPEGImages/68.jpg 478,380,1938,1816,0 422,1852,1926,3416,0 
+datasets/val/JPEGImages/69.jpg 758,96,1846,1008,0 698,1016,1922,2196,0 578,2228,1958,3648,0 
+datasets/val/JPEGImages/7.jpg 582,344,2174,3456,0 
+datasets/val/JPEGImages/70.jpg 30,916,1358,2256,0 1426,956,2574,2176,0 
+datasets/val/JPEGImages/71.jpg 106,220,598,552,0 206,552,770,900,0 266,864,898,1232,0 398,1220,1098,1680,0 574,1700,1270,2208,0 778,2228,1526,2876,0 1018,2900,1954,3592,0 
+datasets/val/JPEGImages/72.jpg 350,416,1802,1868,0 370,1916,1898,3496,0 
+datasets/val/JPEGImages/73.jpg 706,104,1770,1116,0 710,1132,1786,2256,0 698,2256,1862,3540,0 
+datasets/val/JPEGImages/74.jpg 1136,244,2333,1373,0 1178,1397,2360,2594,0 
+datasets/val/JPEGImages/75.jpg 1378,99,2160,841,0 1401,858,2192,1702,0 1339,1735,2260,2605,0 
+datasets/val/JPEGImages/76.jpg 554,344,2238,3588,0 
+datasets/val/JPEGImages/77.jpg 682,200,1794,1216,0 714,1236,1870,2304,0 666,2312,1886,3604,0 
+datasets/val/JPEGImages/78.jpg 586,308,2098,1772,0 586,1800,2106,3392,0 
+datasets/val/JPEGImages/79.jpg 742,104,1850,1156,0 754,1184,1946,2300,0 750,2296,1982,3632,0 
+datasets/val/JPEGImages/8.jpg 726,336,1734,1304,0 706,1320,1754,2408,0 642,2440,1760,3648,0 
+datasets/val/JPEGImages/80.jpg 354,80,2190,1748,0 442,1764,2406,3632,0 
+datasets/val/JPEGImages/81.jpg 766,64,1858,1072,0 698,1108,1874,2272,0 598,2292,1918,3572,0 
+datasets/val/JPEGImages/82.jpg 438,164,2074,1828,0 458,1844,2162,3504,0 
+datasets/val/JPEGImages/83.jpg 806,16,1842,1064,0 786,1044,1942,2164,0 774,2200,1990,3392,0 
+datasets/val/JPEGImages/84.jpg 1013,99,2222,1302,0 1010,1364,2316,2623,0 
+datasets/val/JPEGImages/85.jpg 1254,85,2057,832,0 1245,838,2063,1682,0 1248,1694,2178,2579,0 
+datasets/val/JPEGImages/86.jpg 119,755,1598,1532,0 1639,776,3269,1523,0 
+datasets/val/JPEGImages/87.jpg 402,248,2026,1632,0 342,1660,2158,3420,0 
+datasets/val/JPEGImages/88.jpg 674,56,1870,1124,0 638,1116,1910,2140,0 594,2176,2042,3572,0 
+datasets/val/JPEGImages/89.jpg 426,256,2006,1804,0 434,1828,2110,3616,0 
+datasets/val/JPEGImages/9.jpg 230,1388,2502,2572,0 
+datasets/val/JPEGImages/90.jpg 969,23,2398,2561,0 
+datasets/val/JPEGImages/91.jpg 842,76,1874,1064,0 818,1096,1910,3388,0 
+datasets/val/JPEGImages/92.jpg 58,1356,2582,2184,0 
+datasets/val/JPEGImages/93.jpg 530,240,2166,3452,0 
+datasets/val/JPEGImages/94.jpg 778,24,1894,1048,0 766,1060,1930,2188,0 782,2224,2046,3512,0 
+datasets/val/JPEGImages/95.jpg 1298,111,2178,1744,0 1304,1770,2233,2729,0 
+datasets/val/JPEGImages/96.jpg 1245,279,2469,2602,0 
+datasets/val/JPEGImages/97.jpg 66,2111,2297,2736,0 
+datasets/val/JPEGImages/98.jpg 426,288,2042,1844,0 522,1900,2182,3568,0 
+datasets/val/JPEGImages/99.jpg 750,16,1854,996,0 722,1040,1850,2152,0 754,2160,1966,3472,0 
+datasets/val/JPEGImages/BMX1.jpg 559,430,1396,961,1 322,561,1154,1000,1 
+datasets/val/JPEGImages/BMX10.jpg 1,604,719,1081,1 
+datasets/val/JPEGImages/BMX100.jpg 445,113,1045,876,1 
+datasets/val/JPEGImages/BMX101.jpg 462,98,1079,856,1 
+datasets/val/JPEGImages/BMX102.jpg 390,48,1086,862,1 
+datasets/val/JPEGImages/BMX103.jpg 447,59,1029,871,1 
+datasets/val/JPEGImages/BMX104.jpg 2,32,1080,1170,1 
+datasets/val/JPEGImages/BMX105.jpg 10,61,1080,1339,1 
+datasets/val/JPEGImages/BMX106.jpg 7,6,1440,749,1 
+datasets/val/JPEGImages/BMX107.jpg 3,19,1440,738,1 
+datasets/val/JPEGImages/BMX108.jpg 9,51,1080,1318,1 
+datasets/val/JPEGImages/BMX109.jpg 5,14,1440,752,1 
+datasets/val/JPEGImages/BMX11.jpg 7,498,719,1086,1 
+datasets/val/JPEGImages/BMX110.jpg 1,11,1440,778,1 
+datasets/val/JPEGImages/BMX111.jpg 6,267,1437,976,1 
+datasets/val/JPEGImages/BMX112.jpg 373,972,3000,3401,1 
+datasets/val/JPEGImages/BMX113.jpg 1,678,2848,3839,1 
+datasets/val/JPEGImages/BMX114.jpg 56,297,1050,517,1 756,361,1874,612,1 
+datasets/val/JPEGImages/BMX115.jpg 50,290,2064,4608,1 
+datasets/val/JPEGImages/BMX116.jpg 28,53,2064,4131,1 
+datasets/val/JPEGImages/BMX117.jpg 54,76,2064,4608,1 
+datasets/val/JPEGImages/BMX118.jpg 69,1161,2064,4046,1 
+datasets/val/JPEGImages/BMX119.jpg 21,342,2064,3865,1 
+datasets/val/JPEGImages/BMX12.jpg 1,571,719,889,1 
+datasets/val/JPEGImages/BMX120.jpg 1,665,2064,4353,1 
+datasets/val/JPEGImages/BMX121.jpg 69,590,2064,3787,1 
+datasets/val/JPEGImages/BMX122.jpg 73,131,2064,3965,1 
+datasets/val/JPEGImages/BMX123.jpg 17,1076,2064,4139,1 
+datasets/val/JPEGImages/BMX124.jpg 28,105,2064,3665,1 
+datasets/val/JPEGImages/BMX125.jpg 2,385,1440,687,1 633,286,1244,337,1 
+datasets/val/JPEGImages/BMX126.jpg 1,173,1131,1062,1 
+datasets/val/JPEGImages/BMX127.jpg 3,280,1424,827,1 
+datasets/val/JPEGImages/BMX128.jpg 1,139,1181,1080,1 
+datasets/val/JPEGImages/BMX129.jpg 1,244,1440,895,1 
+datasets/val/JPEGImages/BMX13.jpg 283,278,781,536,1 442,370,905,580,1 
+datasets/val/JPEGImages/BMX130.jpg 1,322,1436,548,1 
+datasets/val/JPEGImages/BMX131.jpg 1,172,1440,1080,1 
+datasets/val/JPEGImages/BMX132.jpg 9,159,1354,969,1 
+datasets/val/JPEGImages/BMX133.jpg 9,270,1440,494,1 
+datasets/val/JPEGImages/BMX134.jpg 211,213,1440,719,1 
+datasets/val/JPEGImages/BMX135.jpg 366,104,1048,819,1 327,259,1412,922,1 
+datasets/val/JPEGImages/BMX136.jpg 362,100,1073,877,1 491,281,1440,881,1 
+datasets/val/JPEGImages/BMX137.jpg 16,142,1251,910,1 
+datasets/val/JPEGImages/BMX138.jpg 100,124,1146,1080,1 
+datasets/val/JPEGImages/BMX139.jpg 1,342,1440,529,1 
+datasets/val/JPEGImages/BMX14.jpg 222,364,935,511,1 
+datasets/val/JPEGImages/BMX140.jpg 3,386,1421,521,1 
+datasets/val/JPEGImages/BMX141.jpg 270,290,738,454,1 582,368,1249,636,1 
+datasets/val/JPEGImages/BMX142.jpg 478,210,1440,920,1 11,286,1389,982,1 
+datasets/val/JPEGImages/BMX143.jpg 28,416,1393,1028,1 518,346,1362,1053,1 
+datasets/val/JPEGImages/BMX144.jpg 21,319,1435,672,1 
+datasets/val/JPEGImages/BMX145.jpg 240,184,980,896,1 342,264,1376,848,1 
+datasets/val/JPEGImages/BMX146.jpg 83,344,1305,531,1 
+datasets/val/JPEGImages/BMX147.jpg 13,312,1440,510,1 
+datasets/val/JPEGImages/BMX148.jpg 325,490,1440,1042,1 
+datasets/val/JPEGImages/BMX149.jpg 13,332,1440,465,1 500,232,901,257,1 
+datasets/val/JPEGImages/BMX15.jpg 260,326,867,479,1 
+datasets/val/JPEGImages/BMX150.jpg 21,159,1253,1080,1 
+datasets/val/JPEGImages/BMX16.jpg 34,429,613,660,1 341,355,589,405,1 
+datasets/val/JPEGImages/BMX17.jpg 1,613,719,781,1 
+datasets/val/JPEGImages/BMX18.jpg 1,81,720,926,1 
+datasets/val/JPEGImages/BMX19.jpg 1,301,720,706,1 
+datasets/val/JPEGImages/BMX2.jpg 377,337,1440,446,1 
+datasets/val/JPEGImages/BMX20.jpg 1,264,720,960,1 
+datasets/val/JPEGImages/BMX21.jpg 1,323,720,846,1 38,289,389,339,1 
+datasets/val/JPEGImages/BMX22.jpg 11,326,720,942,1 
+datasets/val/JPEGImages/BMX23.jpg 1,305,720,960,1 140,244,490,960,1 
+datasets/val/JPEGImages/BMX24.jpg 14,175,635,867,1 
+datasets/val/JPEGImages/BMX25.jpg 117,8,669,300,1 
+datasets/val/JPEGImages/BMX26.jpg 1,104,536,774,1 80,180,720,836,1 
+datasets/val/JPEGImages/BMX27.jpg 162,552,411,639,1 176,703,425,862,1 536,691,747,905,1 
+datasets/val/JPEGImages/BMX28.jpg 1,334,647,765,1 142,269,628,735,1 
+datasets/val/JPEGImages/BMX29.jpg 1,416,568,869,1 
+datasets/val/JPEGImages/BMX3.jpg 1,427,701,1068,1 91,586,1046,1135,1 
+datasets/val/JPEGImages/BMX30.jpg 1,290,432,960,1 154,205,412,960,1 
+datasets/val/JPEGImages/BMX31.jpg 77,1,488,800,1 
+datasets/val/JPEGImages/BMX32.jpg 6,236,720,960,1 
+datasets/val/JPEGImages/BMX33.jpg 53,269,720,844,1 
+datasets/val/JPEGImages/BMX34.jpg 262,25,720,779,1 6,81,720,698,1 
+datasets/val/JPEGImages/BMX35.jpg 2,399,1076,1109,1 
+datasets/val/JPEGImages/BMX36.jpg 10,411,1080,1301,1 
+datasets/val/JPEGImages/BMX37.jpg 2,128,1080,1362,1 
+datasets/val/JPEGImages/BMX38.jpg 1,379,1106,1755,1 1,207,640,1546,1 
+datasets/val/JPEGImages/BMX39.jpg 726,143,1600,2133,1 360,573,1600,2026,1 
+datasets/val/JPEGImages/BMX4.jpg 1,230,822,1429,1 
+datasets/val/JPEGImages/BMX40.jpg 567,707,1600,2070,1 584,280,1600,1562,1 
+datasets/val/JPEGImages/BMX41.jpg 13,384,1584,1290,1 
+datasets/val/JPEGImages/BMX42.jpg 474,195,1469,1051,1 2,341,1600,2133,1 
+datasets/val/JPEGImages/BMX43.jpg 9,341,1600,2133,1 
+datasets/val/JPEGImages/BMX44.jpg 55,599,1596,2133,1 19,350,828,2133,1 
+datasets/val/JPEGImages/BMX45.jpg 19,195,1600,2087,1 
+datasets/val/JPEGImages/BMX46.jpg 18,33,1533,1758,1 
+datasets/val/JPEGImages/BMX47.jpg 11,136,1600,1651,1 
+datasets/val/JPEGImages/BMX48.jpg 2,111,1600,1672,1 
+datasets/val/JPEGImages/BMX49.jpg 230,196,2099,1542,1 
+datasets/val/JPEGImages/BMX5.jpg 35,274,1080,1182,1 
+datasets/val/JPEGImages/BMX50.jpg 1,101,2133,1600,1 
+datasets/val/JPEGImages/BMX51.jpg 21,110,1969,1600,1 
+datasets/val/JPEGImages/BMX52.jpg 114,132,1639,1588,1 
+datasets/val/JPEGImages/BMX53.jpg 249,488,2133,807,1 
+datasets/val/JPEGImages/BMX54.jpg 10,433,2133,1600,1 
+datasets/val/JPEGImages/BMX55.jpg 76,207,1234,1600,1 277,409,1573,1598,1 
+datasets/val/JPEGImages/BMX56.jpg 1,360,2069,1600,1 
+datasets/val/JPEGImages/BMX57.jpg 538,1,2133,1600,1 
+datasets/val/JPEGImages/BMX58.jpg 32,168,1630,1451,1 
+datasets/val/JPEGImages/BMX59.jpg 172,24,1983,1580,1 
+datasets/val/JPEGImages/BMX6.jpg 66,263,1271,612,1 
+datasets/val/JPEGImages/BMX60.jpg 1,120,1850,1600,1 
+datasets/val/JPEGImages/BMX61.jpg 938,127,2133,1576,1 
+datasets/val/JPEGImages/BMX62.jpg 3,235,2127,1600,1 
+datasets/val/JPEGImages/BMX63.jpg 495,629,2133,1049,1 
+datasets/val/JPEGImages/BMX64.jpg 449,423,2075,1375,1 
+datasets/val/JPEGImages/BMX65.jpg 939,239,1575,1484,1 
+datasets/val/JPEGImages/BMX66.jpg 419,184,1282,1469,1 6,551,1286,1398,1 
+datasets/val/JPEGImages/BMX67.jpg 145,168,2133,1600,1 
+datasets/val/JPEGImages/BMX68.jpg 1,342,1593,1600,1 
+datasets/val/JPEGImages/BMX69.jpg 965,221,2133,1600,1 
+datasets/val/JPEGImages/BMX7.jpg 269,312,823,445,1 
+datasets/val/JPEGImages/BMX70.jpg 625,412,2132,1600,1 
+datasets/val/JPEGImages/BMX71.jpg 294,194,2010,1600,1 
+datasets/val/JPEGImages/BMX72.jpg 756,236,1861,1600,1 35,414,1802,1581,1 
+datasets/val/JPEGImages/BMX73.jpg 1,124,2133,1600,1 
+datasets/val/JPEGImages/BMX74.jpg 302,621,2133,828,1 
+datasets/val/JPEGImages/BMX75.jpg 1,423,1767,1600,1 
+datasets/val/JPEGImages/BMX76.jpg 332,191,1587,1600,1 21,335,1905,1600,1 
+datasets/val/JPEGImages/BMX77.jpg 810,107,2133,1600,1 
+datasets/val/JPEGImages/BMX78.jpg 7,139,1010,811,1 
+datasets/val/JPEGImages/BMX79.jpg 88,83,1080,1080,1 
+datasets/val/JPEGImages/BMX8.jpg 307,350,1280,669,1 
+datasets/val/JPEGImages/BMX80.jpg 206,27,1079,1015,1 
+datasets/val/JPEGImages/BMX81.jpg 69,281,1080,1210,1 
+datasets/val/JPEGImages/BMX82.jpg 1,307,1054,1201,1 
+datasets/val/JPEGImages/BMX83.jpg 1,320,1440,431,1 
+datasets/val/JPEGImages/BMX84.jpg 1,297,1440,977,1 512,251,1440,961,1 
+datasets/val/JPEGImages/BMX85.jpg 291,89,1440,911,1 
+datasets/val/JPEGImages/BMX86.jpg 456,168,1161,700,1 
+datasets/val/JPEGImages/BMX87.jpg 1,120,1080,1368,1 
+datasets/val/JPEGImages/BMX88.jpg 1,123,1080,1338,1 
+datasets/val/JPEGImages/BMX89.jpg 290,98,1440,863,1 
+datasets/val/JPEGImages/BMX9.jpg 194,226,416,259,1 1,277,1280,719,1 
+datasets/val/JPEGImages/BMX90.jpg 364,57,1080,1440,1 47,239,1071,1240,1 
+datasets/val/JPEGImages/BMX91.jpg 1,91,1080,1381,1 
+datasets/val/JPEGImages/BMX92.jpg 21,32,1080,1310,1 
+datasets/val/JPEGImages/BMX93.jpg 34,12,595,1296,1 119,514,1080,1419,1 
+datasets/val/JPEGImages/BMX94.jpg 35,13,616,1440,1 153,253,829,1440,1 10,430,1080,1440,1 
+datasets/val/JPEGImages/BMX95.jpg 18,10,730,1372,1 62,335,904,1371,1 
+datasets/val/JPEGImages/BMX96.jpg 19,19,629,1334,1 1,482,1072,1288,1 
+datasets/val/JPEGImages/BMX97.jpg 376,48,1277,927,1 
+datasets/val/JPEGImages/BMX98.jpg 94,17,1079,896,1 
+datasets/val/JPEGImages/BMX99.jpg 260,121,1099,1080,1 
+datasets/val/JPEGImages/LT1.jpg 727,1144,3737,2934,2 
+datasets/val/JPEGImages/LT10.jpg 1005,372,2741,781,2 398,933,3830,2700,2 
+datasets/val/JPEGImages/LT100.jpg 11,908,657,1301,2 
+datasets/val/JPEGImages/LT101.jpg 7,266,643,924,2 
+datasets/val/JPEGImages/LT102.jpg 195,532,1728,2091,2 
+datasets/val/JPEGImages/LT103.jpg 189,72,1728,2241,2 
+datasets/val/JPEGImages/LT104.jpg 68,193,2304,1630,2 
+datasets/val/JPEGImages/LT105.jpg 101,16,1728,2286,2 
+datasets/val/JPEGImages/LT106.jpg 11,154,1679,2304,2 
+datasets/val/JPEGImages/LT107.jpg 39,150,1728,2291,2 
+datasets/val/JPEGImages/LT108.jpg 176,616,1728,2291,2 
+datasets/val/JPEGImages/LT109.jpg 161,19,2304,1666,2 
+datasets/val/JPEGImages/LT11.jpg 733,921,2282,2281,2 2392,1293,3447,2557,2 
+datasets/val/JPEGImages/LT110.jpg 11,13,1728,2282,2 
+datasets/val/JPEGImages/LT111.jpg 29,10,1728,2273,2 
+datasets/val/JPEGImages/LT112.jpg 14,547,1727,2304,2 
+datasets/val/JPEGImages/LT113.jpg 79,629,1728,1169,2 
+datasets/val/JPEGImages/LT114.jpg 637,458,1992,860,2 
+datasets/val/JPEGImages/LT115.jpg 161,79,1728,2225,2 
+datasets/val/JPEGImages/LT116.jpg 85,39,2185,1712,2 
+datasets/val/JPEGImages/LT117.jpg 23,16,1689,2163,2 
+datasets/val/JPEGImages/LT118.jpg 32,85,1698,2000,2 
+datasets/val/JPEGImages/LT119.jpg 29,25,1714,2032,2 
+datasets/val/JPEGImages/LT12.jpg 570,798,3815,2695,2 
+datasets/val/JPEGImages/LT120.jpg 7,172,1728,1726,2 
+datasets/val/JPEGImages/LT121.jpg 26,19,1728,1842,2 
+datasets/val/JPEGImages/LT122.jpg 7,10,2021,341,2 28,384,2285,1665,2 
+datasets/val/JPEGImages/LT123.jpg 17,29,1548,2163,2 
+datasets/val/JPEGImages/LT124.jpg 14,69,1728,2221,2 
+datasets/val/JPEGImages/LT125.jpg 30,31,2283,1660,2 
+datasets/val/JPEGImages/LT126.jpg 39,238,1679,2244,2 
+datasets/val/JPEGImages/LT127.jpg 14,13,1704,1991,2 
+datasets/val/JPEGImages/LT128.jpg 23,66,1686,2235,2 
+datasets/val/JPEGImages/LT129.jpg 26,10,1698,2257,2 
+datasets/val/JPEGImages/LT13.jpg 68,1813,2485,3000,2 
+datasets/val/JPEGImages/LT130.jpg 132,13,1704,444,2 42,488,1698,2041,2 
+datasets/val/JPEGImages/LT131.jpg 76,41,2304,1549,2 
+datasets/val/JPEGImages/LT132.jpg 11,44,1728,2252,2 
+datasets/val/JPEGImages/LT133.jpg 7,41,1704,2104,2 
+datasets/val/JPEGImages/LT134.jpg 51,816,1682,2216,2 
+datasets/val/JPEGImages/LT135.jpg 104,894,1673,1997,2 
+datasets/val/JPEGImages/LT136.jpg 59,153,2271,1334,2 
+datasets/val/JPEGImages/LT137.jpg 29,657,1707,1772,2 
+datasets/val/JPEGImages/LT138.jpg 29,429,1673,2038,2 
+datasets/val/JPEGImages/LT139.jpg 107,179,2249,1534,2 
+datasets/val/JPEGImages/LT14.jpg 663,722,3923,2963,2 
+datasets/val/JPEGImages/LT140.jpg 82,154,1686,2072,2 
+datasets/val/JPEGImages/LT141.jpg 17,335,1711,2216,2 
+datasets/val/JPEGImages/LT142.jpg 28,55,2280,1491,2 
+datasets/val/JPEGImages/LT143.jpg 23,135,1720,2275,2 
+datasets/val/JPEGImages/LT144.jpg 161,44,1651,2266,2 
+datasets/val/JPEGImages/LT145.jpg 11,425,1692,2163,2 
+datasets/val/JPEGImages/LT146.jpg 16,27,2266,1650,2 
+datasets/val/JPEGImages/LT147.jpg 26,557,1707,2191,2 
+datasets/val/JPEGImages/LT148.jpg 20,404,1386,2138,2 
+datasets/val/JPEGImages/LT149.jpg 37,93,2295,1679,2 
+datasets/val/JPEGImages/LT15.jpg 407,1296,2925,3118,2 
+datasets/val/JPEGImages/LT150.jpg 70,160,1654,2157,2 
+datasets/val/JPEGImages/LT16.jpg 228,2376,2161,3798,2 692,691,1770,2158,2 
+datasets/val/JPEGImages/LT17.jpg 130,1184,2963,3796,2 
+datasets/val/JPEGImages/LT18.jpg 7,1213,2681,3311,2 
+datasets/val/JPEGImages/LT19.jpg 103,738,2425,4000,2 
+datasets/val/JPEGImages/LT2.jpg 914,1871,2827,3598,2 
+datasets/val/JPEGImages/LT20.jpg 78,1507,2967,2256,2 
+datasets/val/JPEGImages/LT21.jpg 1,1810,3982,2445,2 
+datasets/val/JPEGImages/LT22.jpg 298,1080,2677,2143,2 
+datasets/val/JPEGImages/LT23.jpg 43,1190,3595,2215,2 
+datasets/val/JPEGImages/LT24.jpg 1,1281,3995,2487,2 
+datasets/val/JPEGImages/LT25.jpg 1395,1212,2583,3000,2 
+datasets/val/JPEGImages/LT26.jpg 48,298,4000,914,2 18,1912,3987,2523,2 
+datasets/val/JPEGImages/LT27.jpg 27,1268,2283,2895,2 
+datasets/val/JPEGImages/LT28.jpg 505,1028,3765,2788,2 1685,95,4000,857,2 
+datasets/val/JPEGImages/LT29.jpg 62,1620,3802,1930,2 
+datasets/val/JPEGImages/LT3.jpg 101,2229,2427,3836,2 
+datasets/val/JPEGImages/LT30.jpg 162,1100,3188,2025,2 
+datasets/val/JPEGImages/LT31.jpg 117,1123,3988,2237,2 
+datasets/val/JPEGImages/LT32.jpg 665,330,2535,1532,2 
+datasets/val/JPEGImages/LT33.jpg 27,27,3933,2517,2 
+datasets/val/JPEGImages/LT34.jpg 32,205,3843,1880,2 
+datasets/val/JPEGImages/LT35.jpg 810,438,3949,1818,2 
+datasets/val/JPEGImages/LT36.jpg 1255,1233,3512,2512,2 
+datasets/val/JPEGImages/LT37.jpg 770,1696,2174,3907,2 1387,567,1827,1489,2 
+datasets/val/JPEGImages/LT38.jpg 988,813,3063,2785,2 
+datasets/val/JPEGImages/LT39.jpg 2623,1363,3975,2230,2 675,1440,1887,2098,2 
+datasets/val/JPEGImages/LT4.jpg 1855,1513,3953,3000,2 
+datasets/val/JPEGImages/LT40.jpg 752,1457,3338,2920,2 
+datasets/val/JPEGImages/LT41.jpg 958,463,1625,1723,2 
+datasets/val/JPEGImages/LT42.jpg 133,1265,568,2455,2 
+datasets/val/JPEGImages/LT43.jpg 293,498,658,1610,2 
+datasets/val/JPEGImages/LT44.jpg 702,1,2845,952,2 357,2205,4000,3000,2 
+datasets/val/JPEGImages/LT45.jpg 933,40,2917,1900,2 
+datasets/val/JPEGImages/LT46.jpg 742,723,3857,2745,2 
+datasets/val/JPEGImages/LT47.jpg 693,495,2730,1812,2 
+datasets/val/JPEGImages/LT48.jpg 705,570,2800,2068,2 
+datasets/val/JPEGImages/LT49.jpg 712,2320,1858,3507,2 843,9,1592,618,2 
+datasets/val/JPEGImages/LT5.jpg 697,660,3605,2463,2 
+datasets/val/JPEGImages/LT50.jpg 532,1511,1881,2973,2 
+datasets/val/JPEGImages/LT51.jpg 505,2293,1594,3927,2 860,226,1623,1030,2 
+datasets/val/JPEGImages/LT52.jpg 29,579,1679,1657,2 
+datasets/val/JPEGImages/LT53.jpg 414,251,2702,2447,2 
+datasets/val/JPEGImages/LT54.jpg 1031,614,2435,3526,2 
+datasets/val/JPEGImages/LT55.jpg 36,1814,2398,3701,2 
+datasets/val/JPEGImages/LT56.jpg 110,1205,2702,2972,2 
+datasets/val/JPEGImages/LT57.jpg 214,1210,2710,2935,2 
+datasets/val/JPEGImages/LT58.jpg 194,1264,2681,3018,2 
+datasets/val/JPEGImages/LT59.jpg 798,582,3564,2791,2 
+datasets/val/JPEGImages/LT6.jpg 945,1318,3689,3000,2 
+datasets/val/JPEGImages/LT60.jpg 1664,973,3832,2904,2 
+datasets/val/JPEGImages/LT61.jpg 117,813,2686,2229,2 
+datasets/val/JPEGImages/LT62.jpg 829,913,2251,2041,2 
+datasets/val/JPEGImages/LT63.jpg 69,1314,2764,2076,2 
+datasets/val/JPEGImages/LT64.jpg 126,1219,3373,2688,2 
+datasets/val/JPEGImages/LT65.jpg 67,398,1951,2157,2 
+datasets/val/JPEGImages/LT66.jpg 82,444,2398,2913,2 
+datasets/val/JPEGImages/LT67.jpg 894,1385,2614,2664,2 
+datasets/val/JPEGImages/LT68.jpg 1081,930,2969,3722,2 
+datasets/val/JPEGImages/LT69.jpg 1769,2726,2969,3897,2 
+datasets/val/JPEGImages/LT7.jpg 122,552,1992,2008,2 
+datasets/val/JPEGImages/LT70.jpg 1273,1018,2256,2560,2 
+datasets/val/JPEGImages/LT71.jpg 1,93,580,375,2 
+datasets/val/JPEGImages/LT72.jpg 14,78,364,601,2 
+datasets/val/JPEGImages/LT73.jpg 14,73,562,360,2 
+datasets/val/JPEGImages/LT74.jpg 159,228,456,694,2 
+datasets/val/JPEGImages/LT75.jpg 69,299,395,492,2 
+datasets/val/JPEGImages/LT76.jpg 283,281,591,390,2 
+datasets/val/JPEGImages/LT77.jpg 50,233,716,469,2 
+datasets/val/JPEGImages/LT78.jpg 68,165,363,549,2 
+datasets/val/JPEGImages/LT79.jpg 221,153,526,363,2 
+datasets/val/JPEGImages/LT8.jpg 1088,1165,3963,3000,2 
+datasets/val/JPEGImages/LT80.jpg 15,84,307,553,2 
+datasets/val/JPEGImages/LT81.jpg 27,333,362,649,2 
+datasets/val/JPEGImages/LT82.jpg 89,134,352,563,2 
+datasets/val/JPEGImages/LT83.jpg 18,356,516,770,2 
+datasets/val/JPEGImages/LT84.jpg 239,452,566,738,2 
+datasets/val/JPEGImages/LT85.jpg 138,98,791,501,2 
+datasets/val/JPEGImages/LT86.jpg 125,254,468,710,2 
+datasets/val/JPEGImages/LT87.jpg 76,249,482,627,2 
+datasets/val/JPEGImages/LT88.jpg 39,175,367,714,2 
+datasets/val/JPEGImages/LT89.jpg 28,113,371,694,2 
+datasets/val/JPEGImages/LT9.jpg 850,2320,3608,3000,2 2157,1356,3880,2262,2 
+datasets/val/JPEGImages/LT90.jpg 12,86,370,636,2 
+datasets/val/JPEGImages/LT91.jpg 216,612,573,1008,2 
+datasets/val/JPEGImages/LT92.jpg 7,70,575,370,2 
+datasets/val/JPEGImages/LT93.jpg 602,783,1068,1342,2 
+datasets/val/JPEGImages/LT94.jpg 235,401,970,1208,2 
+datasets/val/JPEGImages/LT95.jpg 316,939,768,1304,2 
+datasets/val/JPEGImages/LT96.jpg 18,1133,482,1414,2 417,720,901,1079,2 
+datasets/val/JPEGImages/LT97.jpg 682,749,1080,1363,2 
+datasets/val/JPEGImages/LT98.jpg 180,607,914,1321,2 
+datasets/val/JPEGImages/LT99.jpg 180,1249,1076,1429,2 
+datasets/val/JPEGImages/LZ1.jpg 569,107,1174,1287,3 
+datasets/val/JPEGImages/LZ10.jpg 457,239,1127,1449,3 
+datasets/val/JPEGImages/LZ100.jpg 665,153,1871,2489,3 
+datasets/val/JPEGImages/LZ101.jpg 974,108,2084,2663,3 
+datasets/val/JPEGImages/LZ102.jpg 1091,418,2065,2592,3 
+datasets/val/JPEGImages/LZ103.jpg 74,1040,1890,2201,3 1994,492,3010,1234,3 
+datasets/val/JPEGImages/LZ104.jpg 819,27,2069,3024,3 
+datasets/val/JPEGImages/LZ105.jpg 926,37,1723,1447,3 1174,1511,2165,2972,3 
+datasets/val/JPEGImages/LZ106.jpg 861,434,2148,2534,3 
+datasets/val/JPEGImages/LZ107.jpg 636,859,1968,2943,3 
+datasets/val/JPEGImages/LZ108.jpg 355,1017,1336,2921,3 1532,369,2155,1488,3 
+datasets/val/JPEGImages/LZ109.jpg 1245,827,2016,1950,3 
+datasets/val/JPEGImages/LZ11.jpg 834,565,1182,1278,3 319,438,722,1104,3 
+datasets/val/JPEGImages/LZ110.jpg 1194,363,2223,1927,3 
+datasets/val/JPEGImages/LZ111.jpg 677,679,1655,2088,3 
+datasets/val/JPEGImages/LZ112.jpg 974,398,2013,2611,3 
+datasets/val/JPEGImages/LZ113.jpg 565,737,2432,2621,3 
+datasets/val/JPEGImages/LZ114.jpg 945,34,2729,2979,3 
+datasets/val/JPEGImages/LZ115.jpg 168,679,3019,2714,3 
+datasets/val/JPEGImages/LZ116.jpg 165,821,2923,2595,3 
+datasets/val/JPEGImages/LZ117.jpg 1036,814,1871,2130,3 
+datasets/val/JPEGImages/LZ118.jpg 1123,776,1816,2340,3 
+datasets/val/JPEGImages/LZ119.jpg 752,5,1710,1585,3 
+datasets/val/JPEGImages/LZ12.jpg 103,455,1882,1241,3 
+datasets/val/JPEGImages/LZ120.jpg 171,363,1610,1876,3 
+datasets/val/JPEGImages/LZ121.jpg 1119,337,2000,1985,3 
+datasets/val/JPEGImages/LZ122.jpg 845,385,1900,2466,3 
+datasets/val/JPEGImages/LZ123.jpg 1119,508,2190,2524,3 
+datasets/val/JPEGImages/LZ124.jpg 1310,766,1981,2050,3 
+datasets/val/JPEGImages/LZ125.jpg 1642,14,2336,1659,3 
+datasets/val/JPEGImages/LZ126.jpg 10,682,1355,1921,3 1442,630,2945,1608,3 
+datasets/val/JPEGImages/LZ127.jpg 10,727,1681,2430,3 1774,630,2626,1637,3 
+datasets/val/JPEGImages/LZ128.jpg 58,1434,1503,2879,3 1545,821,2294,1456,3 2332,347,2736,895,3 
+datasets/val/JPEGImages/LZ129.jpg 65,498,903,1321,3 1074,688,1913,1630,3 2165,908,2823,2011,3 
+datasets/val/JPEGImages/LZ13.jpg 576,468,1137,1339,3 
+datasets/val/JPEGImages/LZ130.jpg 71,1043,2981,1792,3 
+datasets/val/JPEGImages/LZ131.jpg 1097,643,1813,2063,3 
+datasets/val/JPEGImages/LZ132.jpg 852,272,1742,2063,3 
+datasets/val/JPEGImages/LZ133.jpg 965,853,2019,2656,3 
+datasets/val/JPEGImages/LZ134.jpg 136,1385,1223,2298,3 1310,1256,2358,1811,3 2461,1195,3007,1679,3 
+datasets/val/JPEGImages/LZ135.jpg 1236,11,2436,2985,3 
+datasets/val/JPEGImages/LZ136.jpg 58,1195,3016,2256,3 
+datasets/val/JPEGImages/LZ137.jpg 955,634,1710,2237,3 
+datasets/val/JPEGImages/LZ138.jpg 442,353,1674,2234,3 
+datasets/val/JPEGImages/LZ139.jpg 703,98,1836,2353,3 
+datasets/val/JPEGImages/LZ14.jpg 632,135,1234,1173,3 
+datasets/val/JPEGImages/LZ140.jpg 845,540,1900,2634,3 287,30,897,785,3 
+datasets/val/JPEGImages/LZ141.jpg 155,424,1942,2621,3 
+datasets/val/JPEGImages/LZ142.jpg 1155,150,2352,2340,3 
+datasets/val/JPEGImages/LZ143.jpg 910,147,2071,2456,3 
+datasets/val/JPEGImages/LZ144.jpg 929,466,2036,2905,3 
+datasets/val/JPEGImages/LZ145.jpg 523,453,2300,2211,3 
+datasets/val/JPEGImages/LZ146.jpg 766,240,1804,1533,3 783,863,2274,2790,3 
+datasets/val/JPEGImages/LZ147.jpg 1410,13,2568,3023,3 
+datasets/val/JPEGImages/LZ148.jpg 23,1170,3024,2527,3 
+datasets/val/JPEGImages/LZ149.jpg 9,870,2364,2827,3 1390,1810,1890,2293,3 2454,1317,2780,1780,3 
+datasets/val/JPEGImages/LZ15.jpg 174,3,487,192,3 252,216,795,594,3 
+datasets/val/JPEGImages/LZ150.jpg 126,1327,2994,2027,3 816,1830,1354,2153,3 2467,1817,2897,2173,3 
+datasets/val/JPEGImages/LZ16.jpg 328,336,1891,1259,3 
+datasets/val/JPEGImages/LZ17.jpg 1057,344,1728,1339,3 291,699,992,1432,3 
+datasets/val/JPEGImages/LZ18.jpg 103,382,743,1316,3 845,413,1202,1076,3 1279,432,1677,853,3 
+datasets/val/JPEGImages/LZ19.jpg 137,551,520,955,3 629,890,865,1602,3 
+datasets/val/JPEGImages/LZ2.jpg 643,759,1390,1692,3 
+datasets/val/JPEGImages/LZ20.jpg 555,1029,1318,1908,3 524,512,1128,1076,3 610,119,939,463,3 
+datasets/val/JPEGImages/LZ21.jpg 1,295,1920,1234,3 
+datasets/val/JPEGImages/LZ22.jpg 341,551,547,1157,3 
+datasets/val/JPEGImages/LZ23.jpg 335,570,1131,1382,3 
+datasets/val/JPEGImages/LZ24.jpg 49,339,483,1107,3 525,401,985,884,3 
+datasets/val/JPEGImages/LZ25.jpg 120,190,588,745,3 605,350,1483,1335,3 
+datasets/val/JPEGImages/LZ26.jpg 577,296,812,827,3 
+datasets/val/JPEGImages/LZ27.jpg 511,406,1025,1461,3 
+datasets/val/JPEGImages/LZ28.jpg 191,421,482,853,3 811,438,1057,868,3 1608,427,1875,915,3 
+datasets/val/JPEGImages/LZ29.jpg 639,345,1209,1172,3 
+datasets/val/JPEGImages/LZ3.jpg 400,282,1088,1868,3 
+datasets/val/JPEGImages/LZ30.jpg 435,359,892,1188,3 
+datasets/val/JPEGImages/LZ31.jpg 496,761,1045,1543,3 
+datasets/val/JPEGImages/LZ32.jpg 389,427,1195,1278,3 1240,339,1599,724,3 1472,908,1792,1440,3 
+datasets/val/JPEGImages/LZ33.jpg 92,375,642,1387,3 1102,322,1579,1440,3 
+datasets/val/JPEGImages/LZ34.jpg 14,768,853,1451,3 116,474,480,739,3 
+datasets/val/JPEGImages/LZ35.jpg 159,779,762,1236,3 848,604,1383,938,3 1442,464,1857,745,3 
+datasets/val/JPEGImages/LZ36.jpg 413,321,1013,1441,3 
+datasets/val/JPEGImages/LZ37.jpg 265,373,1080,1368,3 1139,482,1645,965,3 
+datasets/val/JPEGImages/LZ38.jpg 111,653,845,1310,3 908,515,1515,898,3 
+datasets/val/JPEGImages/LZ39.jpg 68,498,1920,1139,3 
+datasets/val/JPEGImages/LZ4.jpg 449,292,911,1321,3 
+datasets/val/JPEGImages/LZ40.jpg 149,78,1284,1853,3 
+datasets/val/JPEGImages/LZ41.jpg 400,600,1084,1541,3 
+datasets/val/JPEGImages/LZ42.jpg 337,537,1137,1696,3 
+datasets/val/JPEGImages/LZ43.jpg 82,485,688,1013,3 775,408,1375,1087,3 1462,432,1869,808,3 
+datasets/val/JPEGImages/LZ44.jpg 251,241,1072,1833,3 
+datasets/val/JPEGImages/LZ45.jpg 705,142,1305,1067,3 
+datasets/val/JPEGImages/LZ46.jpg 157,208,1714,1264,3 
+datasets/val/JPEGImages/LZ47.jpg 290,53,1188,1853,3 
+datasets/val/JPEGImages/LZ48.jpg 297,335,925,795,3 977,376,1920,1152,3 
+datasets/val/JPEGImages/LZ49.jpg 572,521,1378,1578,3 
+datasets/val/JPEGImages/LZ5.jpg 283,275,1657,945,3 
+datasets/val/JPEGImages/LZ50.jpg 555,328,1352,1405,3 
+datasets/val/JPEGImages/LZ51.jpg 270,143,600,577,3 1334,140,1638,595,3 
+datasets/val/JPEGImages/LZ52.jpg 427,298,1029,1808,3 
+datasets/val/JPEGImages/LZ53.jpg 77,481,1912,1176,3 
+datasets/val/JPEGImages/LZ54.jpg 71,363,812,763,3 586,831,873,1684,3 
+datasets/val/JPEGImages/LZ55.jpg 449,419,1229,1423,3 
+datasets/val/JPEGImages/LZ56.jpg 1028,227,1489,1293,3 509,456,988,1368,3 
+datasets/val/JPEGImages/LZ57.jpg 637,276,1095,1207,3 
+datasets/val/JPEGImages/LZ58.jpg 206,133,1251,1906,3 
+datasets/val/JPEGImages/LZ59.jpg 206,659,857,1416,3 
+datasets/val/JPEGImages/LZ6.jpg 500,396,917,1298,3 2,214,223,610,3 
+datasets/val/JPEGImages/LZ60.jpg 591,232,1217,1059,3 3,15,223,353,3 
+datasets/val/JPEGImages/LZ61.jpg 549,580,988,1429,3 
+datasets/val/JPEGImages/LZ62.jpg 335,496,1127,1519,3 
+datasets/val/JPEGImages/LZ63.jpg 11,710,1111,1336,3 1191,716,1919,1305,3 162,98,1700,915,3 
+datasets/val/JPEGImages/LZ64.jpg 20,52,1905,1341,3 
+datasets/val/JPEGImages/LZ65.jpg 429,465,994,1290,3 
+datasets/val/JPEGImages/LZ66.jpg 665,293,1148,1172,3 
+datasets/val/JPEGImages/LZ67.jpg 290,810,1029,1749,3 
+datasets/val/JPEGImages/LZ68.jpg 519,41,953,1919,3 
+datasets/val/JPEGImages/LZ69.jpg 8,1074,210,1504,3 267,723,649,1327,3 635,453,839,792,3 
+datasets/val/JPEGImages/LZ7.jpg 272,558,1031,1393,3 1060,244,1571,790,3 
+datasets/val/JPEGImages/LZ70.jpg 286,165,1920,1036,3 
+datasets/val/JPEGImages/LZ71.jpg 122,316,1791,1336,3 
+datasets/val/JPEGImages/LZ72.jpg 14,178,1920,1260,3 
+datasets/val/JPEGImages/LZ73.jpg 322,644,789,1250,3 822,635,1326,1285,3 517,307,1468,1027,3 
+datasets/val/JPEGImages/LZ74.jpg 732,388,1399,1436,3 
+datasets/val/JPEGImages/LZ75.jpg 288,78,1794,1288,3 
+datasets/val/JPEGImages/LZ76.jpg 35,365,1920,1064,3 
+datasets/val/JPEGImages/LZ77.jpg 153,53,1276,1886,3 
+datasets/val/JPEGImages/LZ78.jpg 13,155,467,539,3 
+datasets/val/JPEGImages/LZ79.jpg 92,290,918,461,3 
+datasets/val/JPEGImages/LZ8.jpg 82,859,647,1737,3 414,290,737,814,3 
+datasets/val/JPEGImages/LZ80.jpg 69,27,215,248,3 269,69,651,469,3 663,142,976,629,3 
+datasets/val/JPEGImages/LZ81.jpg 284,206,737,1019,3 
+datasets/val/JPEGImages/LZ82.jpg 255,265,478,690,3 569,187,724,519,3 736,152,842,391,3 
+datasets/val/JPEGImages/LZ83.jpg 100,1,292,392,3 
+datasets/val/JPEGImages/LZ84.jpg 308,14,2184,4128,3 
+datasets/val/JPEGImages/LZ85.jpg 1778,670,2533,2729,3 1360,120,1651,767,3 
+datasets/val/JPEGImages/LZ86.jpg 1510,308,2480,2164,3 660,173,1316,1282,3 386,135,739,808,3 
+datasets/val/JPEGImages/LZ87.jpg 1230,82,2254,2202,3 
+datasets/val/JPEGImages/LZ88.jpg 907,23,2669,2685,3 
+datasets/val/JPEGImages/LZ89.jpg 242,23,3630,2726,3 
+datasets/val/JPEGImages/LZ9.jpg 423,533,953,1755,3 
+datasets/val/JPEGImages/LZ90.jpg 703,314,2752,2324,3 
+datasets/val/JPEGImages/LZ91.jpg 939,127,2197,2272,3 
+datasets/val/JPEGImages/LZ92.jpg 1381,434,2271,2382,3 868,105,1490,1182,3 
+datasets/val/JPEGImages/LZ93.jpg 1126,256,1813,2008,3 
+datasets/val/JPEGImages/LZ94.jpg 1168,1134,2652,2276,3 
+datasets/val/JPEGImages/LZ95.jpg 1274,601,1987,2208,3 
+datasets/val/JPEGImages/LZ96.jpg 1126,1547,1974,3024,3 1252,379,1936,1447,3 
+datasets/val/JPEGImages/LZ97.jpg 797,292,1761,2121,3 
+datasets/val/JPEGImages/LZ98.jpg 800,31,2116,2618,3 
+datasets/val/JPEGImages/LZ99.jpg 707,124,2207,2882,3 
+datasets/val/JPEGImages/door_000.jpg 29,46,515,1282,5 
+datasets/val/JPEGImages/door_001.jpg 14,13,168,394,5 
+datasets/val/JPEGImages/door_002.jpg 14,14,200,351,5 
+datasets/val/JPEGImages/door_003.jpg 241,70,417,499,5 
+datasets/val/JPEGImages/door_004.jpg 15,9,198,344,5 
+datasets/val/JPEGImages/door_005.jpg 215,75,493,750,5 
+datasets/val/JPEGImages/door_006.jpg 253,15,374,322,5 
+datasets/val/JPEGImages/door_007.jpg 1,4,110,219,5 
+datasets/val/JPEGImages/door_008.jpg 15,20,210,500,5 
+datasets/val/JPEGImages/door_009.jpg 191,65,371,510,5 
+datasets/val/JPEGImages/door_010.jpg 83,64,326,658,5 
+datasets/val/JPEGImages/door_011.jpg 77,17,166,243,5 
+datasets/val/JPEGImages/door_012.jpg 62,57,241,522,5 
+datasets/val/JPEGImages/door_013.jpg 166,36,259,274,5 
+datasets/val/JPEGImages/door_014.jpg 69,35,183,331,5 
+datasets/val/JPEGImages/door_015.jpg 592,62,773,497,5 
+datasets/val/JPEGImages/door_016.jpg 64,7,157,214,5 
+datasets/val/JPEGImages/door_017.jpg 445,207,688,1010,5 
+datasets/val/JPEGImages/door_018.jpg 113,33,298,558,5 
+datasets/val/JPEGImages/door_019.jpg 138,122,387,934,5 
+datasets/val/JPEGImages/door_020.jpg 355,126,645,897,5 
+datasets/val/JPEGImages/door_021.jpg 214,36,398,527,5 
+datasets/val/JPEGImages/door_022.jpg 21,20,188,344,5 
+datasets/val/JPEGImages/door_023.jpg 36,15,110,233,5 
+datasets/val/JPEGImages/door_024.jpg 244,97,420,535,5 
+datasets/val/JPEGImages/door_025.jpg 116,61,206,305,5 
+datasets/val/JPEGImages/door_026.jpg 84,22,191,271,5 
+datasets/val/JPEGImages/door_027.jpg 83,27,183,267,5 
+datasets/val/JPEGImages/door_028.jpg 381,82,471,306,5 
+datasets/val/JPEGImages/door_029.jpg 216,84,482,745,5 
+datasets/val/JPEGImages/door_030.jpg 131,24,284,423,5 
+datasets/val/JPEGImages/door_031.jpg 8,12,138,418,5 
+datasets/val/JPEGImages/door_032.jpg 93,93,268,551,5 346,83,410,577,5 
+datasets/val/JPEGImages/door_033.jpg 55,27,155,290,5 
+datasets/val/JPEGImages/door_034.jpg 200,45,409,572,5 
+datasets/val/JPEGImages/door_035.jpg 344,122,529,600,5 
+datasets/val/JPEGImages/door_036.jpg 187,47,415,567,5 
+datasets/val/JPEGImages/door_037.jpg 28,30,208,485,5 
+datasets/val/JPEGImages/door_038.jpg 438,50,557,388,5 
+datasets/val/JPEGImages/door_039.jpg 437,75,695,695,5 
+datasets/val/JPEGImages/door_040.jpg 59,43,194,385,5 
+datasets/val/JPEGImages/door_041.jpg 410,59,694,765,5 
+datasets/val/JPEGImages/door_042.jpg 229,48,480,697,5 
+datasets/val/JPEGImages/door_043.jpg 385,311,776,1200,5 
+datasets/val/JPEGImages/door_044.jpg 298,67,417,368,5 
+datasets/val/JPEGImages/door_045.jpg 102,52,196,289,5 
+datasets/val/JPEGImages/door_046.jpg 342,68,447,309,5 
+datasets/val/JPEGImages/door_047.jpg 331,26,413,226,5 
+datasets/val/JPEGImages/door_048.jpg 174,56,350,537,5 
+datasets/val/JPEGImages/door_049.jpg 23,22,182,342,5 
+datasets/val/JPEGImages/door_050.jpg 103,40,210,296,5 
+datasets/val/JPEGImages/door_051.jpg 58,79,220,481,5 
+datasets/val/JPEGImages/door_052.jpg 377,98,594,672,5 
+datasets/val/JPEGImages/door_053.jpg 180,83,276,410,5 445,42,599,481,5 
+datasets/val/JPEGImages/door_054.jpg 239,80,410,567,5 
+datasets/val/JPEGImages/door_055.jpg 31,24,185,341,5 
+datasets/val/JPEGImages/door_056.jpg 24,23,190,432,5 
+datasets/val/JPEGImages/door_057.jpg 33,31,186,405,5 
+datasets/val/JPEGImages/door_058.jpg 331,28,414,226,5 
+datasets/val/JPEGImages/door_059.jpg 87,15,203,304,5 
+datasets/val/JPEGImages/door_060.jpg 167,31,269,288,5 
+datasets/val/JPEGImages/door_061.jpg 503,66,807,939,5 
+datasets/val/JPEGImages/door_062.jpg 72,76,634,1464,5 
+datasets/val/JPEGImages/door_063.jpg 355,133,651,889,5 
+datasets/val/JPEGImages/door_064.jpg 25,24,185,342,5 
+datasets/val/JPEGImages/door_065.jpg 125,26,278,391,5 
+datasets/val/JPEGImages/door_066.jpg 26,27,180,345,5 
+datasets/val/JPEGImages/door_067.jpg 132,31,229,278,5 
+datasets/val/JPEGImages/door_068.jpg 232,100,503,813,5 
+datasets/val/JPEGImages/door_069.jpg 135,51,266,358,5 
+datasets/val/JPEGImages/door_070.jpg 800,45,1341,1439,5 
+datasets/val/JPEGImages/door_071.jpg 268,36,374,304,5 
+datasets/val/JPEGImages/door_072.jpg 355,132,650,899,5 
+datasets/val/JPEGImages/door_073.jpg 31,24,186,340,5 
+datasets/val/JPEGImages/door_074.jpg 61,41,152,272,5 
+datasets/val/JPEGImages/door_075.jpg 173,51,365,614,5 
+datasets/val/JPEGImages/door_076.jpg 328,56,558,644,5 
+datasets/val/JPEGImages/door_077.jpg 433,46,560,392,5 
+datasets/val/JPEGImages/door_078.jpg 209,79,485,756,5 
+datasets/val/JPEGImages/door_079.jpg 307,164,613,961,5 
+datasets/val/JPEGImages/door_080.jpg 63,6,158,218,5 
+datasets/val/JPEGImages/door_081.jpg 24,18,182,417,5 
+datasets/val/JPEGImages/door_082.jpg 212,153,456,759,5 
+datasets/val/JPEGImages/door_083.jpg 131,41,417,740,5 
+datasets/val/JPEGImages/door_084.jpg 250,59,413,581,5 
+datasets/val/JPEGImages/door_085.jpg 276,73,485,666,5 
+datasets/val/JPEGImages/door_086.jpg 199,55,320,353,5 
+datasets/val/JPEGImages/door_087.jpg 50,27,153,273,5 
+datasets/val/JPEGImages/door_088.jpg 399,31,669,762,5 
+datasets/val/JPEGImages/door_089.jpg 131,29,229,283,5 
+datasets/val/JPEGImages/door_090.jpg 21,21,184,345,5 
+datasets/val/JPEGImages/door_091.jpg 176,56,355,539,5 
+datasets/val/JPEGImages/door_092.jpg 390,70,554,490,5 
+datasets/val/JPEGImages/door_093.jpg 183,47,311,390,5 
+datasets/val/JPEGImages/door_094.jpg 349,129,654,884,5 
+datasets/val/JPEGImages/door_095.jpg 101,64,319,533,5 
+datasets/val/JPEGImages/door_096.jpg 198,48,352,429,5 
+datasets/val/JPEGImages/door_097.jpg 430,90,539,349,5 
+datasets/val/JPEGImages/door_098.jpg 97,27,177,276,5 
+datasets/val/JPEGImages/door_099.jpg 166,33,349,498,5 
+datasets/val/JPEGImages/hld001.jpg 1018,1204,1973,2654,4 
+datasets/val/JPEGImages/hld002.jpg 1473,1143,1997,2273,4 
+datasets/val/JPEGImages/hld003.jpg 1450,370,2904,2853,4 
+datasets/val/JPEGImages/hld004.jpg 603,80,2781,2613,4 
+datasets/val/JPEGImages/hld005.jpg 990,1,2908,2967,4 
+datasets/val/JPEGImages/hld006.jpg 1133,427,3078,2697,4 
+datasets/val/JPEGImages/hld007.jpg 893,503,2161,2613,4 
+datasets/val/JPEGImages/hld008.jpg 1040,370,2604,2780,4 
+datasets/val/JPEGImages/hld009.jpg 1103,517,2072,3024,4 
+datasets/val/JPEGImages/hld010.jpg 877,507,2078,2883,4 
+datasets/val/JPEGImages/hld011.jpg 1577,680,2864,2923,4 
+datasets/val/JPEGImages/hld012.jpg 2151,540,3511,2863,4 
+datasets/val/JPEGImages/hld013.jpg 1027,877,2654,2620,4 
+datasets/val/JPEGImages/hld014.jpg 1043,867,2468,2373,4 
+datasets/val/JPEGImages/hld015.jpg 583,373,2578,2190,4 
+datasets/val/JPEGImages/hld016.jpg 927,483,2708,2397,4 
+datasets/val/JPEGImages/hld017.jpg 1017,223,3301,2767,4 
+datasets/val/JPEGImages/hld018.jpg 1103,120,1720,1760,4 2068,2040,2758,2993,4 
+datasets/val/JPEGImages/hld019.jpg 1190,150,2118,1643,4 2101,2000,2678,2803,4 
+datasets/val/JPEGImages/hld020.jpg 1410,103,2361,1807,4 2501,1937,3248,2887,4 
+datasets/val/JPEGImages/hld021.jpg 1263,1050,2551,2683,4 
+datasets/val/JPEGImages/hld022.jpg 1043,483,2874,2690,4 
+datasets/val/JPEGImages/hld023.jpg 947,153,3288,2817,4 
+datasets/val/JPEGImages/hld024.jpg 1357,33,3631,2287,4 
+datasets/val/JPEGImages/hld025.jpg 1123,795,1746,3590,4 
+datasets/val/JPEGImages/hld026.jpg 1173,1208,1824,4032,4 
+datasets/val/JPEGImages/hld027.jpg 1343,630,2717,3024,4 
+datasets/val/JPEGImages/hld028.jpg 1297,797,2638,3010,4 
+datasets/val/JPEGImages/hld029.jpg 1073,453,2771,2660,4 
+datasets/val/JPEGImages/hld030.jpg 1477,1237,2010,2700,4 
+datasets/val/JPEGImages/hld031.jpg 1737,1147,2174,2877,4 
+datasets/val/JPEGImages/hld032.jpg 1507,1127,2111,3024,4 
+datasets/val/JPEGImages/hld033.jpg 1583,937,2498,2100,4 
+datasets/val/JPEGImages/hld034.jpg 1180,663,2528,2110,4 
+datasets/val/JPEGImages/hld035.jpg 1160,627,2591,2403,4 
+datasets/val/JPEGImages/hld036.jpg 1903,777,2778,2340,4 
+datasets/val/JPEGImages/hld037.jpg 1257,727,2571,1927,4 
+datasets/val/JPEGImages/hld038.jpg 1497,697,2638,2143,4 
+datasets/val/JPEGImages/hld039.jpg 1114,1381,1791,2981,4 
+datasets/val/JPEGImages/hld040.jpg 1178,1113,2150,2731,4 
+datasets/val/JPEGImages/hld041.jpg 2003,877,2718,2380,4 
+datasets/val/JPEGImages/hld042.jpg 1937,1370,2228,2747,4 
+datasets/val/JPEGImages/hld043.jpg 1043,690,2094,2187,4 
+datasets/val/JPEGImages/hld044.jpg 1403,607,2584,2223,4 
+datasets/val/JPEGImages/hld045.jpg 1270,550,2628,2060,4 
+datasets/val/JPEGImages/hld046.jpg 950,1340,1987,3031,4 
+datasets/val/JPEGImages/hld047.jpg 1100,1104,2091,2631,4 
+datasets/val/JPEGImages/hld048.jpg 973,899,2050,2649,4 
+datasets/val/JPEGImages/hld049.jpg 846,1363,1900,3154,4 
+datasets/val/JPEGImages/hld050.jpg 487,1008,2246,2622,4 
+datasets/val/JPEGImages/hld051.jpg 1290,626,2210,2546,4 
+datasets/val/JPEGImages/hld052.jpg 886,1358,1622,2094,4 
+datasets/val/JPEGImages/hld053.jpg 1274,1602,1650,2254,4 
+datasets/val/JPEGImages/hld054.jpg 1198,1642,1398,1942,4 
+datasets/val/JPEGImages/hld055.jpg 1390,1350,1730,1762,4 
+datasets/val/JPEGImages/hld056.jpg 1335,976,1890,1946,4 
+datasets/val/JPEGImages/hld057.jpg 718,302,1150,1322,4 
+datasets/val/JPEGImages/hld058.jpg 994,282,1626,1574,4 
+datasets/val/JPEGImages/hld059.jpg 1202,1514,1546,1906,4 
+datasets/val/JPEGImages/hld060.jpg 456,599,668,833,4 
+datasets/val/JPEGImages/hld061.jpg 481,553,543,678,4 
+datasets/val/JPEGImages/hld062.jpg 253,577,467,988,4 
+datasets/val/JPEGImages/hld063.jpg 462,447,560,619,4 
+datasets/val/JPEGImages/hld064.jpg 403,199,623,694,4 
+datasets/val/JPEGImages/hld065.jpg 387,453,493,678,4 
+datasets/val/JPEGImages/hld066.jpg 393,253,546,592,4 
+datasets/val/JPEGImages/hld067.jpg 424,258,626,685,4 
+datasets/val/JPEGImages/hld068.jpg 451,317,573,533,4 
+datasets/val/JPEGImages/hld069.jpg 1030,1246,1610,2398,4 
+datasets/val/JPEGImages/hld070.jpg 858,1358,1482,1986,4 
+datasets/val/JPEGImages/hld071.jpg 938,286,1678,1898,4 
+datasets/val/JPEGImages/hld072.jpg 990,974,1818,2326,4 
+datasets/val/JPEGImages/hld073.jpg 1310,1362,1634,1870,4 
+datasets/val/JPEGImages/hld074.jpg 1102,610,1862,2058,4 
+datasets/val/JPEGImages/hld075.jpg 1186,938,1794,2270,4 
+datasets/val/JPEGImages/hld076.jpg 922,1046,1358,1830,4 
+datasets/val/JPEGImages/hld077.jpg 786,422,1914,2578,4 
+datasets/val/JPEGImages/hld078.jpg 521,250,745,745,4 
+datasets/val/JPEGImages/hld079.jpg 456,285,668,794,4 
+datasets/val/JPEGImages/hld080.jpg 256,258,549,803,4 542,511,734,981,4 
+datasets/val/JPEGImages/hld081.jpg 393,200,726,864,4 
+datasets/val/JPEGImages/hld082.jpg 479,147,740,728,4 354,320,479,833,4 
+datasets/val/JPEGImages/hld083.jpg 593,494,793,955,4 
+datasets/val/JPEGImages/hld084.jpg 432,683,573,978,4 
+datasets/val/JPEGImages/hld085.jpg 414,255,640,660,4 
+datasets/val/JPEGImages/hld086.jpg 401,238,678,881,4 
+datasets/val/JPEGImages/hld087.jpg 1110,1582,1662,2730,4 
+datasets/val/JPEGImages/hld088.jpg 1174,1166,1566,1858,4 
+datasets/val/JPEGImages/hld089.jpg 1555,1331,2070,2371,4 
+datasets/val/JPEGImages/hld090.jpg 862,702,1862,2718,4 
+datasets/val/JPEGImages/hld091.jpg 1350,416,2350,2691,4 
+datasets/val/JPEGImages/hld092.jpg 1226,754,1878,2102,4 
+datasets/val/JPEGImages/hld093.jpg 870,618,1498,1902,4 
+datasets/val/JPEGImages/hld094.jpg 1158,806,1574,1686,4 
+datasets/val/JPEGImages/hld095.jpg 1294,834,1594,1626,4 
+datasets/val/JPEGImages/hld096.jpg 228,169,574,856,4 
+datasets/val/JPEGImages/hld097.jpg 509,303,742,766,4 
+datasets/val/JPEGImages/hld098.jpg 337,227,695,1031,4 
+datasets/val/JPEGImages/hld099.jpg 276,578,653,1063,4 
+datasets/val/JPEGImages/hld100.jpg 287,464,659,950,4 
+datasets/val/JPEGImages/knife_000.jpg 474,384,996,603,6 472,35,1147,376,6 
+datasets/val/JPEGImages/knife_001.jpg 37,118,640,417,6 
+datasets/val/JPEGImages/knife_002.jpg 161,100,1061,666,6 
+datasets/val/JPEGImages/knife_003.jpg 6,18,290,306,6 
+datasets/val/JPEGImages/knife_004.jpg 160,145,607,814,6 
+datasets/val/JPEGImages/knife_005.jpg 82,52,541,485,6 
+datasets/val/JPEGImages/knife_006.jpg 5,66,446,269,6 
+datasets/val/JPEGImages/knife_007.jpg 225,91,530,584,6 
+datasets/val/JPEGImages/knife_008.jpg 167,92,582,595,6 
+datasets/val/JPEGImages/knife_009.jpg 15,312,1276,1762,6 
+datasets/val/JPEGImages/knife_010.jpg 8,143,873,430,6 
+datasets/val/JPEGImages/knife_011.jpg 128,100,1194,714,6 
+datasets/val/JPEGImages/knife_012.jpg 15,254,1071,1433,6 
+datasets/val/JPEGImages/knife_013.jpg 376,47,1001,872,6 41,37,370,608,6 
+datasets/val/JPEGImages/knife_014.jpg 31,8,606,620,6 
+datasets/val/JPEGImages/knife_015.jpg 130,39,531,582,6 
+datasets/val/JPEGImages/knife_016.jpg 8,23,792,760,6 
+datasets/val/JPEGImages/knife_017.jpg 5,39,283,243,6 
+datasets/val/JPEGImages/knife_018.jpg 13,135,880,434,6 
+datasets/val/JPEGImages/knife_019.jpg 179,101,1039,402,6 
+datasets/val/JPEGImages/knife_020.jpg 55,6,916,797,6 
+datasets/val/JPEGImages/knife_021.jpg 27,150,470,356,6 25,363,271,419,6 
+datasets/val/JPEGImages/knife_022.jpg 223,13,741,619,6 
+datasets/val/JPEGImages/knife_023.jpg 95,54,737,800,6 
+datasets/val/JPEGImages/knife_024.jpg 10,8,497,352,6 
+datasets/val/JPEGImages/knife_025.jpg 6,57,297,261,6 
+datasets/val/JPEGImages/knife_026.jpg 127,73,395,439,6 
+datasets/val/JPEGImages/knife_027.jpg 247,70,440,761,6 
+datasets/val/JPEGImages/knife_028.jpg 3,69,710,470,6 
+datasets/val/JPEGImages/knife_029.jpg 299,77,1144,762,6 
+datasets/val/JPEGImages/knife_030.jpg 91,115,675,828,6 
+datasets/val/JPEGImages/knife_031.jpg 98,54,693,504,6 
+datasets/val/JPEGImages/knife_032.jpg 490,665,2690,1318,6 
+datasets/val/JPEGImages/knife_033.jpg 59,280,1263,1753,6 
+datasets/val/JPEGImages/knife_034.jpg 15,34,795,772,6 
+datasets/val/JPEGImages/knife_035.jpg 93,97,980,1595,6 
+datasets/val/JPEGImages/knife_036.jpg 37,6,717,989,6 
+datasets/val/JPEGImages/knife_037.jpg 151,28,536,737,6 
+datasets/val/JPEGImages/knife_038.jpg 177,26,485,677,6 
+datasets/val/JPEGImages/knife_039.jpg 236,20,499,1016,6 
+datasets/val/JPEGImages/knife_040.jpg 9,4,742,421,6 
+datasets/val/JPEGImages/knife_041.jpg 12,429,1896,1005,6 
+datasets/val/JPEGImages/knife_042.jpg 343,106,736,739,6 
+datasets/val/JPEGImages/knife_043.jpg 76,4,444,591,6 
+datasets/val/JPEGImages/knife_044.jpg 49,24,1011,1014,6 
+datasets/val/JPEGImages/knife_045.jpg 13,245,1076,1407,6 
+datasets/val/JPEGImages/knife_046.jpg 10,395,268,657,6 114,90,552,267,6 
+datasets/val/JPEGImages/knife_047.jpg 30,31,743,683,6 
+datasets/val/JPEGImages/knife_048.jpg 91,94,514,951,6 
+datasets/val/JPEGImages/knife_049.jpg 87,40,554,322,6 
+datasets/val/JPEGImages/knife_050.jpg 11,5,722,710,6 
+datasets/val/JPEGImages/knife_051.jpg 411,30,1244,1207,6 
+datasets/val/JPEGImages/knife_052.jpg 404,198,836,496,6 
+datasets/val/JPEGImages/knife_053.jpg 213,317,742,910,6 
+datasets/val/JPEGImages/knife_054.jpg 89,16,733,444,6 
+datasets/val/JPEGImages/knife_055.jpg 14,11,748,398,6 
+datasets/val/JPEGImages/knife_056.jpg 206,298,762,907,6 
+datasets/val/JPEGImages/knife_057.jpg 65,22,582,752,6 
+datasets/val/JPEGImages/knife_058.jpg 278,64,848,595,6 
+datasets/val/JPEGImages/knife_059.jpg 67,54,1123,752,6 
+datasets/val/JPEGImages/knife_060.jpg 31,181,698,718,6 
+datasets/val/JPEGImages/knife_061.jpg 70,299,285,896,6 
+datasets/val/JPEGImages/knife_062.jpg 7,15,707,415,6 
+datasets/val/JPEGImages/knife_063.jpg 238,66,662,887,6 
+datasets/val/JPEGImages/knife_064.jpg 32,58,302,268,6 
+datasets/val/JPEGImages/knife_065.jpg 54,245,632,560,6 
+datasets/val/JPEGImages/knife_066.jpg 31,96,703,659,6 
+datasets/val/JPEGImages/knife_067.jpg 1,66,710,467,6 
+datasets/val/JPEGImages/knife_068.jpg 17,3,589,390,6 
+datasets/val/JPEGImages/knife_069.jpg 155,17,560,472,6 
+datasets/val/JPEGImages/knife_070.jpg 48,272,294,922,6 
+datasets/val/JPEGImages/knife_071.jpg 459,32,1065,990,6 
+datasets/val/JPEGImages/knife_072.jpg 9,14,587,429,6 
+datasets/val/JPEGImages/knife_073.jpg 840,16,1490,1440,6 
+datasets/val/JPEGImages/knife_074.jpg 51,128,1632,1262,6 
+datasets/val/JPEGImages/knife_075.jpg 7,9,596,420,6 
+datasets/val/JPEGImages/knife_076.jpg 354,195,987,758,6 
+datasets/val/JPEGImages/knife_077.jpg 494,37,865,523,6 
+datasets/val/JPEGImages/knife_078.jpg 217,33,573,849,6 
+datasets/val/JPEGImages/knife_079.jpg 77,311,1852,1804,6 
+datasets/val/JPEGImages/knife_080.jpg 37,338,743,578,6 
+datasets/val/JPEGImages/knife_081.jpg 50,27,253,288,6 
+datasets/val/JPEGImages/knife_082.jpg 332,466,1118,623,6 335,621,1128,752,6 
+datasets/val/JPEGImages/knife_083.jpg 59,260,617,521,6 
+datasets/val/JPEGImages/knife_084.jpg 44,196,778,743,6 
+datasets/val/JPEGImages/knife_085.jpg 8,8,733,459,6 
+datasets/val/JPEGImages/knife_086.jpg 15,46,1068,1050,6 
+datasets/val/JPEGImages/knife_087.jpg 527,48,873,554,6 
+datasets/val/JPEGImages/knife_088.jpg 15,40,292,209,6 
+datasets/val/JPEGImages/knife_089.jpg 395,87,1106,706,6 
+datasets/val/JPEGImages/knife_090.jpg 38,146,692,643,6 
+datasets/val/JPEGImages/knife_091.jpg 141,13,552,1060,6 
+datasets/val/JPEGImages/knife_092.jpg 12,22,611,798,6 
+datasets/val/JPEGImages/knife_093.jpg 516,303,2505,1731,6 
+datasets/val/JPEGImages/knife_094.jpg 15,2,615,622,6 
+datasets/val/JPEGImages/knife_095.jpg 874,371,3303,3763,6 
+datasets/val/JPEGImages/knife_096.jpg 11,26,301,288,6 
+datasets/val/JPEGImages/knife_097.jpg 18,41,755,715,6 
+datasets/val/JPEGImages/knife_098.jpg 443,39,1145,466,6 
+datasets/val/JPEGImages/knife_099.jpg 9,39,396,356,6 
+datasets/val/JPEGImages/phone_000.jpg 80,13,538,958,7 
+datasets/val/JPEGImages/phone_001.jpg 300,137,828,1187,7 
+datasets/val/JPEGImages/phone_002.jpg 62,51,412,319,7 
+datasets/val/JPEGImages/phone_003.jpg 348,601,1468,1517,7 882,233,2136,1066,7 
+datasets/val/JPEGImages/phone_004.jpg 196,15,402,440,7 50,5,195,440,7 
+datasets/val/JPEGImages/phone_005.jpg 194,9,406,438,7 44,7,202,441,7 
+datasets/val/JPEGImages/phone_006.jpg 72,86,376,340,7 
+datasets/val/JPEGImages/phone_007.jpg 259,40,460,450,7 
+datasets/val/JPEGImages/phone_008.jpg 199,45,440,342,7 
+datasets/val/JPEGImages/phone_009.jpg 95,6,203,213,7 27,4,96,212,7 
+datasets/val/JPEGImages/phone_010.jpg 195,178,385,364,7 1,70,129,160,7 156,16,281,144,7 
+datasets/val/JPEGImages/phone_011.jpg 236,25,441,437,7 
+datasets/val/JPEGImages/phone_012.jpg 32,36,447,226,7 
+datasets/val/JPEGImages/phone_013.jpg 189,52,399,295,7 
+datasets/val/JPEGImages/phone_014.jpg 126,38,380,298,7 
+datasets/val/JPEGImages/phone_015.jpg 201,26,404,431,7 
+datasets/val/JPEGImages/phone_016.jpg 40,60,506,474,7 
+datasets/val/JPEGImages/phone_017.jpg 30,21,193,358,7 194,25,295,356,7 
+datasets/val/JPEGImages/phone_018.jpg 531,58,745,523,7 745,60,873,525,7 
+datasets/val/JPEGImages/phone_019.jpg 36,34,458,840,7 
+datasets/val/JPEGImages/phone_020.jpg 27,154,133,356,7 161,131,272,354,7 310,133,414,354,7 451,111,570,353,7 
+datasets/val/JPEGImages/phone_021.jpg 193,54,490,414,7 
+datasets/val/JPEGImages/phone_022.jpg 134,83,384,309,7 
+datasets/val/JPEGImages/phone_023.jpg 97,45,374,312,7 
+datasets/val/JPEGImages/phone_024.jpg 73,92,347,622,7 369,87,629,627,7 
+datasets/val/JPEGImages/phone_025.jpg 259,155,478,377,7 
+datasets/val/JPEGImages/phone_026.jpg 163,98,322,362,7 
+datasets/val/JPEGImages/phone_027.jpg 94,66,292,462,7 379,63,577,458,7 84,15,302,42,7 24,67,66,452,7 312,66,340,460,7 
+datasets/val/JPEGImages/phone_028.jpg 104,223,652,901,7 
+datasets/val/JPEGImages/phone_029.jpg 209,24,383,285,7 
+datasets/val/JPEGImages/phone_030.jpg 50,52,473,200,7 
+datasets/val/JPEGImages/phone_031.jpg 63,29,467,295,7 
+datasets/val/JPEGImages/phone_032.jpg 51,51,273,468,7 
+datasets/val/JPEGImages/phone_033.jpg 297,105,546,359,7 114,44,341,288,7 
+datasets/val/JPEGImages/phone_034.jpg 153,176,506,799,7 
+datasets/val/JPEGImages/phone_035.jpg 196,74,799,566,7 
+datasets/val/JPEGImages/phone_036.jpg 230,61,541,324,7 
+datasets/val/JPEGImages/phone_037.jpg 95,55,388,298,7 
+datasets/val/JPEGImages/phone_038.jpg 75,30,138,177,7 
+datasets/val/JPEGImages/phone_039.jpg 139,62,460,358,7 
+datasets/val/JPEGImages/phone_040.jpg 21,10,200,467,7 231,19,429,455,7 
+datasets/val/JPEGImages/phone_041.jpg 228,65,877,1307,7 
+datasets/val/JPEGImages/phone_042.jpg 208,34,394,463,7 
+datasets/val/JPEGImages/phone_043.jpg 91,88,647,1309,7 649,150,1025,1282,7 
+datasets/val/JPEGImages/phone_044.jpg 347,74,826,978,7 
+datasets/val/JPEGImages/phone_045.jpg 27,21,120,234,7 122,15,224,232,7 
+datasets/val/JPEGImages/phone_046.jpg 84,93,643,1307,7 640,141,1036,1268,7 
+datasets/val/JPEGImages/phone_047.jpg 183,49,523,343,7 
+datasets/val/JPEGImages/phone_048.jpg 193,4,412,448,7 28,4,198,448,7 
+datasets/val/JPEGImages/phone_049.jpg 201,42,467,423,7 
+datasets/val/JPEGImages/phone_050.jpg 153,37,296,332,7 54,31,161,326,7 
+datasets/val/JPEGImages/phone_051.jpg 93,28,362,340,7 
+datasets/val/JPEGImages/phone_052.jpg 58,55,264,462,7 263,60,411,478,7 408,44,519,479,7 516,43,620,480,7 615,48,723,480,7 
+datasets/val/JPEGImages/phone_053.jpg 190,4,407,440,7 52,4,203,439,7 
+datasets/val/JPEGImages/phone_054.jpg 494,87,645,451,7 637,200,910,419,7 191,428,264,561,7 144,427,189,559,7 97,426,146,562,7 48,427,98,561,7 
+datasets/val/JPEGImages/phone_055.jpg 56,73,470,261,7 
+datasets/val/JPEGImages/phone_056.jpg 258,59,502,450,7 97,24,263,449,7 
+datasets/val/JPEGImages/phone_057.jpg 344,146,513,277,7 32,9,248,109,7 158,91,407,208,7 
+datasets/val/JPEGImages/phone_058.jpg 74,93,344,631,7 374,89,636,632,7 
+datasets/val/JPEGImages/phone_059.jpg 55,72,174,332,7 179,62,295,325,7 308,60,431,324,7 431,61,550,333,7 
+datasets/val/JPEGImages/phone_060.jpg 94,30,286,396,7 322,31,505,396,7 
+datasets/val/JPEGImages/phone_061.jpg 16,48,485,204,7 
+datasets/val/JPEGImages/phone_062.jpg 68,35,600,1123,7 
+datasets/val/JPEGImages/phone_063.jpg 1,2,480,958,7 
+datasets/val/JPEGImages/phone_064.jpg 125,23,532,376,7 
+datasets/val/JPEGImages/phone_065.jpg 8,311,677,1108,7 
+datasets/val/JPEGImages/phone_066.jpg 209,133,842,894,7 
+datasets/val/JPEGImages/phone_067.jpg 82,19,252,392,7 
+datasets/val/JPEGImages/phone_068.jpg 100,31,434,758,7 428,34,711,768,7 
+datasets/val/JPEGImages/phone_069.jpg 75,4,286,406,7 
+datasets/val/JPEGImages/phone_070.jpg 176,36,333,346,7 
+datasets/val/JPEGImages/phone_071.jpg 222,57,434,462,7 
+datasets/val/JPEGImages/phone_072.jpg 367,106,690,686,7 
+datasets/val/JPEGImages/phone_073.jpg 113,55,407,340,7 
+datasets/val/JPEGImages/phone_074.jpg 233,121,484,372,7 
+datasets/val/JPEGImages/phone_075.jpg 201,32,402,468,7 
+datasets/val/JPEGImages/phone_076.jpg 34,59,620,364,7 
+datasets/val/JPEGImages/phone_077.jpg 240,28,432,260,7 60,127,275,382,7 
+datasets/val/JPEGImages/phone_078.jpg 169,44,334,345,7 
+datasets/val/JPEGImages/phone_079.jpg 347,541,1614,1496,7 950,287,2311,1130,7 
+datasets/val/JPEGImages/phone_080.jpg 227,42,453,471,7 
+datasets/val/JPEGImages/phone_081.jpg 355,591,1297,1403,7 927,267,2111,1187,7 
+datasets/val/JPEGImages/phone_082.jpg 632,113,1652,971,7 
+datasets/val/JPEGImages/phone_083.jpg 41,70,480,286,7 
+datasets/val/JPEGImages/phone_084.jpg 142,98,397,429,7 
+datasets/val/JPEGImages/phone_085.jpg 106,172,642,894,7 
+datasets/val/JPEGImages/phone_086.jpg 84,40,727,755,7 
+datasets/val/JPEGImages/phone_087.jpg 40,57,451,326,7 
+datasets/val/JPEGImages/phone_088.jpg 214,43,883,1350,7 
+datasets/val/JPEGImages/phone_089.jpg 63,42,282,285,7 228,104,466,339,7 
+datasets/val/JPEGImages/phone_090.jpg 136,12,368,343,7 
+datasets/val/JPEGImages/phone_091.jpg 180,84,417,485,7 
+datasets/val/JPEGImages/phone_092.jpg 98,14,249,318,7 255,12,422,320,7 
+datasets/val/JPEGImages/phone_093.jpg 113,7,636,1083,7 
+datasets/val/JPEGImages/phone_094.jpg 175,81,394,428,7 
+datasets/val/JPEGImages/phone_095.jpg 103,34,429,765,7 430,39,705,762,7 
+datasets/val/JPEGImages/phone_096.jpg 163,88,318,355,7 
+datasets/val/JPEGImages/phone_097.jpg 161,56,447,182,7 
+datasets/val/JPEGImages/phone_098.jpg 67,60,266,468,7 263,49,423,476,7 414,43,518,479,7 514,42,620,479,7 615,44,722,478,7 
+datasets/val/JPEGImages/phone_099.jpg 236,21,448,437,7 
+datasets/val/JPEGImages/scissor_000.jpg 38,52,651,683,8 
+datasets/val/JPEGImages/scissor_001.jpg 192,66,642,719,8 
+datasets/val/JPEGImages/scissor_002.jpg 111,184,655,508,8 
+datasets/val/JPEGImages/scissor_003.jpg 97,271,766,609,8 
+datasets/val/JPEGImages/scissor_004.jpg 63,117,738,754,8 
+datasets/val/JPEGImages/scissor_005.jpg 111,32,986,650,8 
+datasets/val/JPEGImages/scissor_006.jpg 69,31,670,666,8 
+datasets/val/JPEGImages/scissor_007.jpg 310,77,750,432,8 
+datasets/val/JPEGImages/scissor_008.jpg 189,47,530,472,8 
+datasets/val/JPEGImages/scissor_009.jpg 19,60,759,337,8 
+datasets/val/JPEGImages/scissor_010.jpg 174,6,596,533,8 
+datasets/val/JPEGImages/scissor_011.jpg 236,128,687,739,8 
+datasets/val/JPEGImages/scissor_012.jpg 49,19,265,456,8 280,15,447,459,8 
+datasets/val/JPEGImages/scissor_013.jpg 54,39,502,427,8 
+datasets/val/JPEGImages/scissor_014.jpg 54,172,666,570,8 
+datasets/val/JPEGImages/scissor_015.jpg 44,8,257,287,8 
+datasets/val/JPEGImages/scissor_016.jpg 28,23,772,411,8 
+datasets/val/JPEGImages/scissor_017.jpg 44,127,639,567,8 
+datasets/val/JPEGImages/scissor_018.jpg 12,280,721,854,8 
+datasets/val/JPEGImages/scissor_019.jpg 148,6,1027,588,8 
+datasets/val/JPEGImages/scissor_020.jpg 34,56,288,224,8 
+datasets/val/JPEGImages/scissor_021.jpg 110,192,1103,1064,8 
+datasets/val/JPEGImages/scissor_022.jpg 115,6,272,338,8 
+datasets/val/JPEGImages/scissor_023.jpg 303,164,1749,1209,8 
+datasets/val/JPEGImages/scissor_024.jpg 468,131,1707,1266,8 
+datasets/val/JPEGImages/scissor_025.jpg 217,6,400,284,8 116,131,219,368,8 
+datasets/val/JPEGImages/scissor_026.jpg 138,1,707,737,8 
+datasets/val/JPEGImages/scissor_027.jpg 9,10,95,293,8 149,10,247,291,8 
+datasets/val/JPEGImages/scissor_028.jpg 246,4,660,795,8 
+datasets/val/JPEGImages/scissor_029.jpg 28,207,630,564,8 
+datasets/val/JPEGImages/scissor_030.jpg 106,22,735,672,8 
+datasets/val/JPEGImages/scissor_031.jpg 111,122,729,490,8 
+datasets/val/JPEGImages/scissor_032.jpg 238,52,410,583,8 471,94,610,613,8 653,90,879,588,8 
+datasets/val/JPEGImages/scissor_033.jpg 65,39,524,769,8 
+datasets/val/JPEGImages/scissor_034.jpg 186,8,626,996,8 
+datasets/val/JPEGImages/scissor_035.jpg 29,19,935,978,8 
+datasets/val/JPEGImages/scissor_036.jpg 305,17,625,539,8 51,568,634,1012,8 
+datasets/val/JPEGImages/scissor_037.jpg 11,23,978,388,8 
+datasets/val/JPEGImages/scissor_038.jpg 116,172,1099,1091,8 
+datasets/val/JPEGImages/scissor_039.jpg 133,10,636,1234,8 
+datasets/val/JPEGImages/scissor_040.jpg 15,11,274,301,8 
+datasets/val/JPEGImages/scissor_041.jpg 119,32,672,725,8 
+datasets/val/JPEGImages/scissor_042.jpg 9,138,615,529,8 
+datasets/val/JPEGImages/scissor_043.jpg 77,2,752,498,8 
+datasets/val/JPEGImages/scissor_044.jpg 214,8,675,800,8 
+datasets/val/JPEGImages/scissor_045.jpg 129,291,1890,1163,8 
+datasets/val/JPEGImages/scissor_046.jpg 89,186,748,611,8 
+datasets/val/JPEGImages/scissor_047.jpg 82,151,1041,667,8 
+datasets/val/JPEGImages/scissor_048.jpg 114,102,643,953,8 
+datasets/val/JPEGImages/scissor_049.jpg 40,68,974,950,8 
+datasets/val/JPEGImages/scissor_050.jpg 191,172,470,719,8 416,142,750,642,8 
+datasets/val/JPEGImages/scissor_051.jpg 48,21,712,788,8 
+datasets/val/JPEGImages/scissor_052.jpg 100,160,395,723,8 342,179,689,760,8 514,156,968,775,8 
+datasets/val/JPEGImages/scissor_053.jpg 111,28,511,943,8 
+datasets/val/JPEGImages/scissor_054.jpg 72,70,820,807,8 
+datasets/val/JPEGImages/scissor_055.jpg 247,98,567,465,8 
+datasets/val/JPEGImages/scissor_056.jpg 60,80,994,693,8 
+datasets/val/JPEGImages/scissor_057.jpg 33,61,308,244,8 
+datasets/val/JPEGImages/scissor_058.jpg 98,76,631,995,8 
+datasets/val/JPEGImages/scissor_059.jpg 53,54,561,473,8 62,521,684,694,8 
+datasets/val/JPEGImages/scissor_060.jpg 22,54,640,365,8 
+datasets/val/JPEGImages/scissor_061.jpg 53,50,750,616,8 
+datasets/val/JPEGImages/scissor_062.jpg 125,60,641,967,8 
+datasets/val/JPEGImages/scissor_063.jpg 28,25,700,648,8 
+datasets/val/JPEGImages/scissor_064.jpg 35,67,766,294,8 18,341,745,639,8 39,648,743,938,8 
+datasets/val/JPEGImages/scissor_065.jpg 216,20,557,616,8 
+datasets/val/JPEGImages/scissor_066.jpg 206,10,888,697,8 
+datasets/val/JPEGImages/scissor_067.jpg 28,46,290,262,8 
+datasets/val/JPEGImages/scissor_068.jpg 104,40,768,756,8 
+datasets/val/JPEGImages/scissor_069.jpg 256,44,793,580,8 
+datasets/val/JPEGImages/scissor_070.jpg 12,10,721,429,8 
+datasets/val/JPEGImages/scissor_071.jpg 220,28,667,701,8 
+datasets/val/JPEGImages/scissor_072.jpg 9,7,287,248,8 
+datasets/val/JPEGImages/scissor_073.jpg 41,35,262,256,8 
+datasets/val/JPEGImages/scissor_074.jpg 157,1,592,405,8 397,753,712,1137,8 
+datasets/val/JPEGImages/scissor_075.jpg 29,33,594,607,8 
+datasets/val/JPEGImages/scissor_076.jpg 117,26,641,666,8 
+datasets/val/JPEGImages/scissor_077.jpg 332,80,700,200,8 218,168,700,388,8 70,228,649,666,8 
+datasets/val/JPEGImages/scissor_078.jpg 194,87,659,584,8 
+datasets/val/JPEGImages/scissor_079.jpg 56,108,696,406,8 
+datasets/val/JPEGImages/scissor_080.jpg 25,80,510,462,8 
+datasets/val/JPEGImages/scissor_081.jpg 140,54,741,623,8 
+datasets/val/JPEGImages/scissor_082.jpg 54,16,572,284,8 55,237,737,696,8 
+datasets/val/JPEGImages/scissor_083.jpg 287,50,787,900,8 
+datasets/val/JPEGImages/scissor_084.jpg 54,28,875,958,8 
+datasets/val/JPEGImages/scissor_085.jpg 107,32,612,609,8 
+datasets/val/JPEGImages/scissor_086.jpg 38,54,747,525,8 
+datasets/val/JPEGImages/scissor_087.jpg 19,11,271,240,8 
+datasets/val/JPEGImages/scissor_088.jpg 280,26,459,467,8 
+datasets/val/JPEGImages/scissor_089.jpg 52,20,750,626,8 
+datasets/val/JPEGImages/scissor_090.jpg 97,31,637,466,8 
+datasets/val/JPEGImages/scissor_091.jpg 38,41,535,468,8 
+datasets/val/JPEGImages/scissor_092.jpg 157,91,1524,1809,8 
+datasets/val/JPEGImages/scissor_093.jpg 216,98,654,532,8 
+datasets/val/JPEGImages/scissor_094.jpg 41,92,511,482,8 
+datasets/val/JPEGImages/scissor_095.jpg 45,265,800,631,8 
+datasets/val/JPEGImages/scissor_096.jpg 67,77,747,449,8 
+datasets/val/JPEGImages/scissor_097.jpg 96,43,800,242,8 
+datasets/val/JPEGImages/scissor_098.jpg 118,63,664,426,8 
+datasets/val/JPEGImages/scissor_099.jpg 32,83,540,387,8 
+datasets/val/JPEGImages/water_bottle000.jpg 152,25,606,725,9 
+datasets/val/JPEGImages/water_bottle001.jpg 215,5,662,800,9 
+datasets/val/JPEGImages/water_bottle002.jpg 24,13,361,932,9 352,32,716,1001,9 
+datasets/val/JPEGImages/water_bottle003.jpg 185,55,575,755,9 
+datasets/val/JPEGImages/water_bottle004.jpg 165,25,655,775,9 
+datasets/val/JPEGImages/water_bottle005.jpg 21,36,103,198,9 116,41,203,208,9 
+datasets/val/JPEGImages/water_bottle006.jpg 197,34,605,750,9 
+datasets/val/JPEGImages/water_bottle007.jpg 244,327,635,1018,9 
+datasets/val/JPEGImages/water_bottle008.jpg 5,20,55,220,9 65,27,123,217,9 126,20,187,220,9 194,27,244,220,9 237,24,294,213,9 
+datasets/val/JPEGImages/water_bottle009.jpg 260,41,570,790,9 
+datasets/val/JPEGImages/water_bottle010.jpg 652,184,1558,2423,9 1586,217,2488,2437,9 
+datasets/val/JPEGImages/water_bottle011.jpg 187,43,622,756,9 
+datasets/val/JPEGImages/water_bottle012.jpg 44,28,379,716,9 
+datasets/val/JPEGImages/water_bottle013.jpg 115,134,564,1180,9 619,145,1075,1168,9 
+datasets/val/JPEGImages/water_bottle014.jpg 196,257,904,1791,9 902,305,1551,1783,9 
+datasets/val/JPEGImages/water_bottle015.jpg 94,44,619,931,9 
+datasets/val/JPEGImages/water_bottle016.jpg 81,38,444,787,9 422,51,782,798,9 
+datasets/val/JPEGImages/water_bottle017.jpg 221,36,487,730,9 
+datasets/val/JPEGImages/water_bottle018.jpg 447,91,721,752,9 
+datasets/val/JPEGImages/water_bottle019.jpg 39,5,206,539,9 207,9,445,584,9 392,15,598,549,9 
+datasets/val/JPEGImages/water_bottle020.jpg 65,33,445,919,9 
+datasets/val/JPEGImages/water_bottle021.jpg 240,80,478,553,9 480,73,730,550,9 
+datasets/val/JPEGImages/water_bottle022.jpg 88,17,253,344,9 
+datasets/val/JPEGImages/water_bottle023.jpg 33,21,158,291,9 164,21,286,294,9 
+datasets/val/JPEGImages/water_bottle024.jpg 90,66,415,739,9 416,74,693,734,9 
+datasets/val/JPEGImages/water_bottle025.jpg 45,59,319,539,9 291,79,586,586,9 
+datasets/val/JPEGImages/water_bottle026.jpg 374,57,737,618,9 
+datasets/val/JPEGImages/water_bottle027.jpg 37,22,161,290,9 165,25,292,294,9 
+datasets/val/JPEGImages/water_bottle028.jpg 177,91,455,552,9 
+datasets/val/JPEGImages/water_bottle029.jpg 209,59,424,557,9 
+datasets/val/JPEGImages/water_bottle030.jpg 218,65,764,1306,9 
+datasets/val/JPEGImages/water_bottle031.jpg 88,85,410,769,9 487,75,830,781,9 879,88,1228,774,9 1288,79,1603,768,9 
+datasets/val/JPEGImages/water_bottle032.jpg 68,8,223,300,9 
+datasets/val/JPEGImages/water_bottle033.jpg 183,16,465,544,9 
+datasets/val/JPEGImages/water_bottle034.jpg 371,105,572,529,9 
+datasets/val/JPEGImages/water_bottle035.jpg 255,23,618,779,9 
+datasets/val/JPEGImages/water_bottle036.jpg 253,76,481,563,9 479,64,733,552,9 
+datasets/val/JPEGImages/water_bottle037.jpg 3,33,65,215,9 65,36,127,215,9 126,41,185,215,9 184,39,243,209,9 236,39,298,203,9 
+datasets/val/JPEGImages/water_bottle038.jpg 84,43,343,653,9 350,43,598,640,9 
+datasets/val/JPEGImages/water_bottle039.jpg 42,13,133,148,9 
+datasets/val/JPEGImages/water_bottle040.jpg 191,19,354,354,9 1,37,71,343,9 60,31,192,350,9 
+datasets/val/JPEGImages/water_bottle041.jpg 99,169,396,790,9 428,180,716,790,9 
+datasets/val/JPEGImages/water_bottle042.jpg 123,5,263,390,9 
+datasets/val/JPEGImages/water_bottle043.jpg 185,84,409,573,9 
+datasets/val/JPEGImages/water_bottle044.jpg 177,125,809,920,9 
+datasets/val/JPEGImages/water_bottle045.jpg 230,126,506,574,9 
+datasets/val/JPEGImages/water_bottle046.jpg 454,113,747,537,9 
+datasets/val/JPEGImages/water_bottle047.jpg 172,42,808,1328,9 
+datasets/val/JPEGImages/water_bottle048.jpg 102,85,298,757,9 249,84,598,800,9 496,116,776,782,9 
+datasets/val/JPEGImages/water_bottle049.jpg 61,25,348,600,9 
+datasets/val/JPEGImages/water_bottle050.jpg 214,5,572,750,9 
+datasets/val/JPEGImages/water_bottle051.jpg 140,20,649,786,9 
+datasets/val/JPEGImages/water_bottle052.jpg 154,384,326,778,9 354,328,538,774,9 
+datasets/val/JPEGImages/water_bottle053.jpg 153,223,503,876,9 
+datasets/val/JPEGImages/water_bottle054.jpg 16,13,162,300,9 165,16,299,297,9 
+datasets/val/JPEGImages/water_bottle055.jpg 91,8,243,288,9 
+datasets/val/JPEGImages/water_bottle056.jpg 12,120,286,585,9 137,35,322,468,9 268,121,543,585,9 372,36,590,450,9 
+datasets/val/JPEGImages/water_bottle057.jpg 202,53,434,565,9 
+datasets/val/JPEGImages/water_bottle058.jpg 56,40,170,276,9 
+datasets/val/JPEGImages/water_bottle059.jpg 193,46,501,559,9 
+datasets/val/JPEGImages/water_bottle060.jpg 25,37,221,376,9 199,33,375,374,9 
+datasets/val/JPEGImages/water_bottle061.jpg 54,38,168,280,9 
+datasets/val/JPEGImages/water_bottle062.jpg 147,14,586,896,9 
+datasets/val/JPEGImages/water_bottle063.jpg 737,23,2778,2888,9 
+datasets/val/JPEGImages/water_bottle064.jpg 23,2,163,313,9 157,1,279,313,9 270,3,398,306,9 
+datasets/val/JPEGImages/water_bottle065.jpg 176,77,419,595,9 
+datasets/val/JPEGImages/water_bottle066.jpg 166,6,539,800,9 
+datasets/val/JPEGImages/water_bottle067.jpg 113,57,481,732,9 414,116,780,741,9 
+datasets/val/JPEGImages/water_bottle068.jpg 238,32,630,800,9 
+datasets/val/JPEGImages/water_bottle069.jpg 8,70,143,354,9 130,72,260,362,9 249,68,385,364,9 
+datasets/val/JPEGImages/water_bottle070.jpg 75,22,384,665,9 443,10,719,662,9 
+datasets/val/JPEGImages/water_bottle071.jpg 442,77,730,760,9 
+datasets/val/JPEGImages/water_bottle072.jpg 802,112,2748,2658,9 
+datasets/val/JPEGImages/water_bottle073.jpg 209,17,706,774,9 
+datasets/val/JPEGImages/water_bottle074.jpg 305,45,730,795,9 
+datasets/val/JPEGImages/water_bottle075.jpg 16,94,307,522,9 286,79,593,551,9 
+datasets/val/JPEGImages/water_bottle076.jpg 25,284,536,1392,9 471,248,945,1171,9 872,355,1414,1400,9 
+datasets/val/JPEGImages/water_bottle077.jpg 212,18,610,706,9 
+datasets/val/JPEGImages/water_bottle078.jpg 168,24,419,579,9 
+datasets/val/JPEGImages/water_bottle079.jpg 255,181,1116,1679,9 
+datasets/val/JPEGImages/water_bottle080.jpg 235,24,624,787,9 
+datasets/val/JPEGImages/water_bottle081.jpg 186,69,1063,1375,9 
+datasets/val/JPEGImages/water_bottle082.jpg 115,13,283,395,9 
+datasets/val/JPEGImages/water_bottle083.jpg 226,23,638,773,9 
+datasets/val/JPEGImages/water_bottle084.jpg 749,58,2751,2838,9 
+datasets/val/JPEGImages/water_bottle085.jpg 145,28,625,755,9 
+datasets/val/JPEGImages/water_bottle086.jpg 342,143,1051,1187,9 
+datasets/val/JPEGImages/water_bottle087.jpg 60,16,414,674,9 421,12,723,672,9 
+datasets/val/JPEGImages/water_bottle088.jpg 266,21,586,565,9 
+datasets/val/JPEGImages/water_bottle089.jpg 251,41,739,754,9 
+datasets/val/JPEGImages/water_bottle090.jpg 238,5,634,749,9 
+datasets/val/JPEGImages/water_bottle091.jpg 190,25,356,357,9 58,34,201,353,9 1,38,77,350,9 
+datasets/val/JPEGImages/water_bottle092.jpg 192,23,547,723,9 557,50,909,705,9 
+datasets/val/JPEGImages/water_bottle093.jpg 219,74,676,764,9 
+datasets/val/JPEGImages/water_bottle094.jpg 122,48,550,677,9 
+datasets/val/JPEGImages/water_bottle095.jpg 168,91,697,739,9 
+datasets/val/JPEGImages/water_bottle096.jpg 80,11,277,349,9 
+datasets/val/JPEGImages/water_bottle097.jpg 40,26,436,551,9 
+datasets/val/JPEGImages/water_bottle098.jpg 262,306,745,1086,9 
+datasets/val/JPEGImages/water_bottle099.jpg 401,152,1048,1157,9 
