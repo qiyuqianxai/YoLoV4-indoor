@@ -8,9 +8,10 @@ import torch
 #-------------------------------------#
 #       对单张图片进行预测
 #-------------------------------------#
+yolo = YOLO()
+
 def detect_image(image_path):
     print('Start detect!')
-    yolo = YOLO()
     try:
         image = Image.open(image_path)
         # image.show()

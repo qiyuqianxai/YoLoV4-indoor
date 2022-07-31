@@ -21,7 +21,7 @@ class YOLO(object):
         "classes_path": 'model_data/mask_classes_new.txt',
         "model_image_size" : (608, 608, 3),
         "confidence": 0.55,
-        "cuda": True
+        "cuda": False
     }
 
     @classmethod
