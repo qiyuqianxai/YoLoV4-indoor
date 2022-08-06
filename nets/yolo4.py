@@ -3,6 +3,8 @@ import torch.nn as nn
 from collections import OrderedDict
 from nets.CSPdarknet import darknet53
 
+froze_params = ["backbone","conv1","conv2","make_five_conv1","make_five_conv2","make_five_conv3","make_five_conv4",
+                           "upsample1","upsample2","yolo_head1","yolo_head2","conv_for_P4","conv_for_P3","down_sample1","down_sample2"]
 def conv2d(filter_in, filter_out, kernel_size, stride=1):
     pad = (kernel_size - 1) // 2 if kernel_size else 0
     return nn.Sequential(OrderedDict([

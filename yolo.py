@@ -12,6 +12,8 @@ import torch.backends.cudnn as cudnn
 from PIL import Image, ImageFont, ImageDraw
 from torch.autograd import Variable
 from utils import non_max_suppression, bbox_iou, DecodeBox, letterbox_image, yolo_correct_boxes
+import time
+import datetime
 
 
 class YOLO(object):
@@ -104,6 +106,7 @@ class YOLO(object):
     #---------------------------------------------------#
     def detect_image(self, image):
         #print(1)
+        start_time = time.time()
         image_shape = np.array(np.shape(image)[0:2])
 
         crop_img = np.array(letterbox_image(image, (self.model_image_size[0],self.model_image_size[1])))
@@ -175,13 +178,13 @@ class YOLO(object):
             label_size = draw.textsize(label, font)
             #print(label_size)
             label = label.encode('utf-8')
-            print(label)
+#             print(label)
             
             if top - label_size[1] >= 0:
                 text_origin = np.array([left, top - label_size[1]])
             else:
                 text_origin = np.array([left, top + 1])
-            print(self.class_names.index(predicted_class))
+#             print(self.class_names.index(predicted_class))
 
             for i in range(thickness):
                 draw.rectangle(
@@ -191,7 +194,7 @@ class YOLO(object):
                 [tuple(text_origin), tuple(text_origin + label_size)],
                 fill=self.colors[self.class_names.index(predicted_class)])
             draw.text(text_origin, str(label,'UTF-8'), fill=(0, 0, 0), font=font)
-            print(label)
+#             print(label)
          
         #else:
               
@@ -201,5 +204,8 @@ class YOLO(object):
              #messages = 'mask_num:{}          people_num:{}       nomask_num:{}'.format(num_mask,len(top_label),num_nomask)
              #draw = ImageDraw.Draw(image)
              #draw.text((100,50),str(messages),'red',font)
+        total_time = time.time() - start_time
+        total_time_str = str(datetime.timedelta(seconds=int(total_time)))
+        print("预测耗时：",total_time_str)
         return image
 
