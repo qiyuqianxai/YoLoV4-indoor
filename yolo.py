@@ -185,7 +185,7 @@ class YOLO(object):
             else:
                 text_origin = np.array([left, top + 1])
 #             print(self.class_names.index(predicted_class))
-
+            box = [left, top, right, bottom]
             for i in range(thickness):
                 draw.rectangle(
                     [left + i, top + i, right - i, bottom - i],
@@ -194,7 +194,7 @@ class YOLO(object):
                 [tuple(text_origin), tuple(text_origin + label_size)],
                 fill=self.colors[self.class_names.index(predicted_class)])
             draw.text(text_origin, str(label,'UTF-8'), fill=(0, 0, 0), font=font)
-#             print(label)
+            print(f"预测类别：{predicted_class}，置信度：{score:0.2f}，位置：{box}")
          
         #else:
               

@@ -10,7 +10,7 @@ from torch.autograd import Variable
 import torch.backends.cudnn as cudnn
 from nets.yolo4 import YoloBody
 from nets.yolo_training import YOLOLoss, Generator
-
+from torchsummary import summary
 #---------------------------------------------------#
 #   获得类和先验框
 #---------------------------------------------------#
@@ -130,6 +130,8 @@ num_classes = len(class_names)
 
 # 创建模型
 model = YoloBody(len(anchors[0]), num_classes)
+summary(model,(3,608,608),batch_size=-1,device="cpu")
+exit(0)
 model_path = "model_data/yolov4_coco_pretrained_weights.pth"
 #model_path = "model_data/yolov4_maskdetect_weights0.pth"
 # model_path = "model_data/yolov4_maskdetect_weights626B.pth"
